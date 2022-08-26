@@ -10,14 +10,14 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 
 
-## Comissão organizadora:
+### Comissão organizadora:
 - Ana Cristina Vieira
 - Aline Vilela Andrade
 - Charles Aparecido de Almeida
 - Lucas Henrique Calixto
 - Rafael Bezerra dos Santos
 
-## Comitê científico:
+### Comitê científico:
 - Csaba Schneider
 - Elizaveta Vishnyakova
 - John William MacQuarrie
