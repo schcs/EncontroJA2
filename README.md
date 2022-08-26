@@ -1,5 +1,5 @@
 
-O encontro será realizado nos dias 09, 10 e 11 de maio de 2023 no Instituto de Ciências Exatas da Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG.
+O encontro será realizado nos dias 09, 10 e 11 de maio de 2023 no [Instituto de Ciências Exatas](https://icex.ufmg.br) da [Universidade Federal de Minas Gerais](https://ufmg.br) (UFMG), Belo Horizonte, MG.
 
 Nos últimos anos, a área de pesquisa Álgebra tem se tornado uma das mais promissoras na Matemática. A pesquisa desenvolvida pelos jovens algebristas no Brasil tem se destacado no cenário internacional com a formação de parcerias e publicação de resultados importantes nas mais diferentes subáreas de atuação.
 
@@ -10,14 +10,14 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 
 
-Comissão organizadora:
+## Comissão organizadora:
 - Ana Cristina Vieira
 - Aline Vilela Andrade
 - Charles Aparecido de Almeida
 - Lucas Henrique Calixto
 - Rafael Bezerra dos Santos
 
-Comitê científico:
+## Comitê científico:
 - Csaba Schneider
 - Elizaveta Vishnyakova
 - John William MacQuarrie
