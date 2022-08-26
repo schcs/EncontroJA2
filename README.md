@@ -1,2 +1,25 @@
-# EncontroJA2
-Páginas para o Encontro Jovens Algebristas
+
+Dias 09, 10 e 11 de maio de 2023
+
+Nos últimos anos, a área de pesquisa Álgebra tem se tornado uma das mais promissoras na Matemática. A pesquisa desenvolvida pelos jovens algebristas no Brasil tem se destacado no cenário internacional com a formação de parcerias e publicação de resultados importantes nas mais diferentes subáreas de atuação.
+
+Pensando na comunidade de jovens algebristas formados nos últimos anos nos diversos programas de pós-graduação de modo geral, entendemos que é importante a realização de eventos para que estes possam interagir e falar sobre o progresso de seus trabalhos. 
+
+Estão previstas apresentações de palestras proferidas por jovens pesquisadores da área de Álgebra, especialmente convidados para o evento. Pretendemos atrair participantes de diversas instituições do Brasil para participação efetiva das atividades. Contaremos ainda com uma sessão de apresentação de pôsteres.
+
+Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
+
+
+Comissão organizadora:
+- Ana Cristina Vieira
+- Aline Vilela Andrade
+- Charles Aparecido de Almeida
+- Lucas Henrique Calixto
+- Rafael Bezerra dos Santos
+
+Comitê científico:
+- Csaba Schneider
+- Elizaveta Vishnyakova
+- John William MacQuarrie
+- Viktor Bekkert
+- Viviane Ribeiro Tomaz da Silva.
