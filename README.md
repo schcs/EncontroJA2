@@ -11,15 +11,17 @@ Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 
 
 ### Comissão organizadora:
-- Ana Cristina Vieira
-- Aline Vilela Andrade
-- Charles Aparecido de Almeida
-- Lucas Henrique Calixto
-- Rafael Bezerra dos Santos
+- Ana Cristina Vieira (UFMG)
+- Aline Vilela Andrade (UFMG)
+- Charles Aparecido de Almeida (UFMG)
+- Danilo Vilela Avelar (UFF)
+- Lucas Henrique Calixto (UFMG)
+- Rafael Bezerra dos Santos (UFMG)
 
 ### Comitê científico:
-- Csaba Schneider
-- Elizaveta Vishnyakova
-- John William MacQuarrie
-- Viktor Bekkert
-- Viviane Ribeiro Tomaz da Silva.
+- Csaba Schneider (UFMG)
+- Elizaveta Vishnyakova (UFMG)
+- John William MacQuarrie (UFMG)
+- Thiago Castilho de Mello (Unifesp)
+- Viktor Bekkert (UFMG)
+- Viviane Ribeiro Tomaz da Silva (UFMG)
