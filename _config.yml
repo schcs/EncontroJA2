@@ -7,3 +7,6 @@ description: Belo Horizonte, 09-11 de maio de 2023
 show_downloads: false
 github:
   is_project_page: false
+  
+title: Homepage
+menus: header
