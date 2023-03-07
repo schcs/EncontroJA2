@@ -1,7 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [II Encontro de Jovens Algebristas [local](info.md)]
+title: [II Encontro de Jovens Algebristas]
 description: Belo Horizonte, 09-11 de maio de 2023
 show_downloads: false
 github:
