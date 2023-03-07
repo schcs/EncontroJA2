@@ -3,10 +3,12 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-menus
 title: [II Encontro de Jovens Algebristas]
+menus:
+  header:
+    title: Home
+    weight: 1
 description: Belo Horizonte, 09-11 de maio de 2023
 show_downloads: false
 github:
   is_project_page: false
   
-title: Homepage
-menus: header
