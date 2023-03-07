@@ -1,9 +1,9 @@
-# Local do evento 
+### Local do evento 
 
 O evento será presencial e ocorrerá nas dependências do Instituto de Ciências Exatas da UFMG, 
 localizado na Av. Antônio Carlos 6627, Pampulha – BH
 
-# Hotéis na região da Pampulha:
+### Hotéis na região da Pampulha:
 
 - [Bristol Jaraguá Hotel](https://www.bristoljaraguahotel.com.br/)
 - [San Diego Suítes Pampulha](https://www.nobilehoteis.com.br/minas-gerais/belo-horizonte/san-diego-suites-pampulha/)
