@@ -1,3 +1,10 @@
+---
+title: Informações
+menus:
+  header:
+    title: Info
+    weight: 1
+---
 ### Local do evento 
 
 O evento será presencial e ocorrerá nas dependências do Instituto de Ciências Exatas da UFMG, 
