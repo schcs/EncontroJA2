@@ -1,3 +1,5 @@
+[Informações locais](info.md)
+
 
 O encontro será realizado nos dias 09, 10 e 11 de maio de 2023 no [Instituto de Ciências Exatas](https://www.icex.ufmg.br) da [Universidade Federal de Minas Gerais](https://ufmg.br) (UFMG), Belo Horizonte, MG.
 
