@@ -1,4 +1,5 @@
 ---
+permalink: /README/
 title: Homepage
 menus:
   header:
