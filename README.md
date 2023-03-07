@@ -25,5 +25,3 @@ Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 - Viktor Bekkert (UFMG)
 - Viviane Ribeiro Tomaz da Silva (UFMG)
 
-### Mais informações
-- [Informações locais](info.md)
