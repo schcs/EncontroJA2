@@ -1,6 +1,3 @@
-[Informações locais](info.md)
-
-
 O encontro será realizado nos dias 09, 10 e 11 de maio de 2023 no [Instituto de Ciências Exatas](https://www.icex.ufmg.br) da [Universidade Federal de Minas Gerais](https://ufmg.br) (UFMG), Belo Horizonte, MG.
 
 Nos últimos anos, a área de pesquisa Álgebra tem se tornado uma das mais promissoras na Matemática. A pesquisa desenvolvida pelos jovens algebristas no Brasil tem se destacado no cenário internacional com a formação de parcerias e publicação de resultados importantes nas mais diferentes subáreas de atuação.
@@ -27,3 +24,6 @@ Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 - Thiago Castilho de Mello (Unifesp)
 - Viktor Bekkert (UFMG)
 - Viviane Ribeiro Tomaz da Silva (UFMG)
+
+### Mais informações
+- [Informações locais](info.md)
