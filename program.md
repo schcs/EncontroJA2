@@ -1,5 +1,5 @@
-| Horário        | 09 de maio    | 10 de maio          | 11 de maio    | 
-| -------------  | ------------- | ------------------- | ------------- |
+| Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
+| :---:  | :---: | :---: | :---: |
 | 10:00 - 10:30  |               | PALESTRA 7          | PALESTRA 15   |
 | 10:40 - 11:10  |               | PALESTRA 8          | PALESTRA 16   |
 | 11:20 - 11:50  |               | PALESTRA 9          | PALESTRA 17   |
