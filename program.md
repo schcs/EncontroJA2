@@ -1,9 +1,14 @@
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|}
-\hline
- &  &  &  &  \\ \hline
- &  &  &  &  \\ \hline
- &  &  &  &  \\ \hline
- &  &  &  &  \\ \hline
-\end{tabular}
-\end{table}
+| Horário        | 09 de maio    | 10 de maio          | 11 de maio    | 
+| -------------  | ------------- | ------------------- | ------------- |
+| 10:00 - 10:30  |               | PALESTRA 7          | PALESTRA 15   |
+| 10:40 - 11:10  |               | PALESTRA 8          | PALESTRA 16   |
+| 11:20 - 11:50  |               | PALESTRA 9          | PALESTRA 17   |
+| 11:50 - 13:30  |               | ALMOÇO              | ALMOÇO        |
+| 13:30 - 14:00  | PALESTRA 1    | PALESTRA 10         | PALESTRA 18   |
+| 14:10 - 14:40  | PALESTRA 2    | PALESTRA 11         | PALESTRA 19   |
+| 14:50 - 15:20  | PALESTRA 3    | PALESTRA 12         | PALESTRA 20   |
+| 15:20 - 15:50  | CAFÉ          | CAFÉ                |               |
+| 15:50 - 16:20  | PALESTRA 4    | SESSÃO DE PÔESTERES |               |
+| 16:30 - 17:00  | PALESTRA 5    | PALESTRA 13         |               |
+| 17:10 - 17:40  | PALESTRA 6    | PALESTRA 14         |               |
+| -------------- | ------------- | ------------------- | ------------- |
