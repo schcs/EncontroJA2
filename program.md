@@ -1,3 +1,7 @@
+### Programação 
+
+A seguinte planilha contém a programação proposta do evento. Informações adicionais sobre as palestras serão dispinbilizadas mais tarde. 
+
 | Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
 | :---:  | :---: | :---: | :---: |
 | 10:00 - 10:30  |               | PALESTRA 7          | PALESTRA 15   |
