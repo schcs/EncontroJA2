@@ -4,15 +4,15 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 
 | Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
 | :---:  | :---: | :---: | :---: |
-| 10:00 - 10:30  |               | PALESTRA 7          | PALESTRA 15   |
-| 10:40 - 11:10  |               | PALESTRA 8          | PALESTRA 16   |
-| 11:20 - 11:50  |               | PALESTRA 9          | PALESTRA 17   |
+| 10:00 - 10:30  |               | <font color="red">PALESTRA 7</font>          | <font color="red">PALESTRA 15</font>   |
+| 10:40 - 11:10  |               | <font color="red">PALESTRA 8</font>          | <font color="red">PALESTRA 16</font>   |
+| 11:20 - 11:50  |               | <font color="red">PALESTRA 9</font>          | <font color="red">PALESTRA 17</font>   |
 | 11:50 - 13:30  | REGISTRO E ABERTURA<BR/>ÀS 13 HORAS              | ALMOÇO              | ALMOÇO        |
-| 13:30 - 14:00  | <font color="red">PALESTRA 1</font>    | PALESTRA 10         | PALESTRA 18   |
-| 14:10 - 14:40  | PALESTRA 2    | PALESTRA 11         | PALESTRA 19   |
-| 14:50 - 15:20  | PALESTRA 3    | PALESTRA 12         | PALESTRA 20   |
+| 13:30 - 14:00  | <font color="red">PALESTRA 1</font>    | <font color="red">PALESTRA 10</font>         | PALESTRA 18   |
+| 14:10 - 14:40  | <font color="red">PALESTRA 2</font>    | <font color="red">PALESTRA 11</font>         | <font color="red">PALESTRA 19   |
+| 14:50 - 15:20  | <font color="red">PALESTRA 3</font>    | <font color="red">PALESTRA 12</font>         | <font color="red">PALESTRA 20   |
 | 15:20 - 15:50  | CAFÉ          | CAFÉ                |               |
-| 15:50 - 16:20  | PALESTRA 4    | SESSÃO DE PÔESTERES |               |
-| 16:30 - 17:00  | PALESTRA 5    | PALESTRA 13         |               |
-| 17:10 - 17:40  | PALESTRA 6    | PALESTRA 14         |               |
+| 15:50 - 16:20  | <font color="red">PALESTRA 4</font>    | SESSÃO DE PÔESTERES |               |
+| 16:30 - 17:00  | <font color="red">PALESTRA 5</font>    | <font color="red">PALESTRA 13</font>         |               |
+| 17:10 - 17:40  | <font color="red">PALESTRA 6</font>    | <font color="red">PALESTRA 14</font>         |               |
 | -------------- | ------------- | ------------------- | ------------- |
