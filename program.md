@@ -8,7 +8,7 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 | 10:40 - 11:10  |               | PALESTRA 8          | PALESTRA 16   |
 | 11:20 - 11:50  |               | PALESTRA 9          | PALESTRA 17   |
 | 11:50 - 13:30  | REGISTRO E ABERTURA<BR/>ÀS 13 HORAS              | ALMOÇO              | ALMOÇO        |
-| 13:30 - 14:00  | PALESTRA 1    | PALESTRA 10         | PALESTRA 18   |
+| 13:30 - 14:00  | <font color="red">PALESTRA 1</font>    | PALESTRA 10         | PALESTRA 18   |
 | 14:10 - 14:40  | PALESTRA 2    | PALESTRA 11         | PALESTRA 19   |
 | 14:50 - 15:20  | PALESTRA 3    | PALESTRA 12         | PALESTRA 20   |
 | 15:20 - 15:50  | CAFÉ          | CAFÉ                |               |
