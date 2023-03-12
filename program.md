@@ -12,7 +12,7 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 | 14:10 - 14:40  | <font color="red">PALESTRA 2</font>    | <font color="red">PALESTRA 11</font>         | <font color="red">PALESTRA 19   |
 | 14:50 - 15:20  | <font color="red">PALESTRA 3</font>    | <font color="red">PALESTRA 12</font>         | <font color="red">PALESTRA 20   |
 | 15:20 - 15:50  | <font color="green">CAFÉ</font>          | <font color="green">CAFÉ</font>                |               |
-| 15:50 - 16:20  | <font color="red">PALESTRA 4</font>    | <font color="saddlebrown">SESSÃO DE PÔESTERES</font> |               |
+| 15:50 - 16:20  | <font color="red">PALESTRA 4</font>    | <font color="saddlebrown">SESSÃO DE PÔSTERES</font> |               |
 | 16:30 - 17:00  | <font color="red">PALESTRA 5</font>    | <font color="red">PALESTRA 13</font>         |               |
 | 17:10 - 17:40  | <font color="red">PALESTRA 6</font>    | <font color="red">PALESTRA 14</font>         |               |
 | -------------- | ------------- | ------------------- | ------------- |
