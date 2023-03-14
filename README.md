@@ -6,22 +6,11 @@ Pensando na comunidade de jovens algebristas formados nos últimos anos nos dive
 
 Estão previstas apresentações de palestras proferidas por jovens pesquisadores da área de Álgebra, especialmente convidados para o evento. Pretendemos atrair participantes de diversas instituições do Brasil para participação efetiva das atividades. Contaremos ainda com uma sessão de apresentação de pôsteres.
 
-Mais detalhes sobre o evento serão disponibilizados em breve nesta página.
 
+## Palestrantes Confirmados
 
-### Comissão organizadora:
-- Ana Cristina Vieira (UFMG)
-- Aline Vilela Andrade (UFMG)
-- Charles Aparecido de Almeida (UFMG)
-- Danilo Vilela Avelar (UFF)
-- Lucas Henrique Calixto (UFMG)
-- Rafael Bezerra dos Santos (UFMG)
-
-### Comitê científico:
-- Csaba Schneider (UFMG)
-- Elizaveta Vishnyakova (UFMG)
-- John William MacQuarrie (UFMG)
-- Thiago Castilho de Mello (Unifesp)
-- Viktor Bekkert (UFMG)
-- Viviane Ribeiro Tomaz da Silva (UFMG)
-
+- Claudemir Fideles Bezerra Jr. (Unicamp)
+- Dafne Bessades (Unicamp)
+- José Alves Oliveira (UFLA)
+- Maria Luiza Oliveira Santos (UFF)
+- Ricardo Luiz Souza (Colégio Batista Mineiro)
