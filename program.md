@@ -15,14 +15,13 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 | 15:50 - 16:20  | <font color="red">PALESTRA 4</font>    | <font color="saddlebrown">SESSÃO DE PÔSTERES</font> |               |
 | 16:30 - 17:00  | <font color="red">PALESTRA 5</font>    | <font color="red">PALESTRA 13</font>         |               |
 | 17:10 - 17:40  | <font color="red">PALESTRA 6</font>    | <font color="red">PALESTRA 14</font>         |               |
-| -------------- | ------------- | ------------------- | ------------- |
 
 
 
 ## Títulos e resumos
 
 #### **Maria Luiza Oliveira Santos**
-(Universidade Federal Fluminense)
+**Universidade Federal Fluminense**
 
 Álgebras com involução graduada e crescimento quadrático das codimensões
   
@@ -53,7 +52,7 @@ Todo curso introdutório de Teoria de Representações de Álgebras começa com 
 Nesta palestra vamos apresentar um jeito de dar uma topologia natural para espaços vetoriais, módulos e anéis, de forma a estender naturalmente diversos resultados que valem em dimensão finita para um contexto mais geral em dimensões infinitas. Especificamente, vamos mostrar como essa topologia é suficiente para demonstrar um teorema de adjunção tensor-hom, construir módulos livres e projetivos, e, afinal, dizer alguma coisa sobre a existência de sequências quase-split para tais módulos.
 
 
-#### *Claudemir Fideles Bezerra Jr.**
+#### **Claudemir Fideles Bezerra Jr.**
 **Universidade Estadual de Campinas**
 
 A generalization of Cayley-Hamilton algebras and an introduction to their geometries
