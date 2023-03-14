@@ -18,7 +18,7 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 
 
 
-## Títulos e resumos
+## Palestrantes confirmados
 
 #### **Maria Luiza Oliveira Santos**
 **Universidade Federal Fluminense**
