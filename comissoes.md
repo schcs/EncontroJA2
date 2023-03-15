@@ -1,5 +1,6 @@
 
-## A comissão organizadora:
+## A comissão organizadora
+
 - Ana Cristina Vieira (UFMG)
 - Aline Vilela Andrade (UFMG)
 - Charles Aparecido de Almeida (UFMG)
@@ -7,7 +8,8 @@
 - Lucas Henrique Calixto (UFMG)
 - Rafael Bezerra dos Santos (UFMG)
 
-## O comitê científico:
+## O comitê científico
+
 - Csaba Schneider (UFMG)
 - Elizaveta Vishnyakova (UFMG)
 - John William MacQuarrie (UFMG)
