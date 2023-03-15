@@ -7,7 +7,7 @@ Pensando na comunidade de jovens algebristas formados nos últimos anos nos dive
 Estão previstas apresentações de palestras proferidas por jovens pesquisadores da área de Álgebra, especialmente convidados para o evento. Pretendemos atrair participantes de diversas instituições do Brasil para participação efetiva das atividades. Contaremos ainda com uma sessão de apresentação de pôsteres.
 
 
-## Palestrantes Confirmados
+## Palestrantes confirmados
 
 - Claudemir Fideles Bezerra Jr. (Unicamp)
 - Dafne Bessades (Unicamp)
