@@ -18,7 +18,7 @@ Nesta palestra, veremos como podemos usar esse tipo de abordagem no estudo da mi
 
 
 
-### **Daniela Alves de Oliveira** 
+#### **Daniela Alves de Oliveira** 
 Universidade Federal de Minas Gerais
 
 **Polinômios sobre corpos binários com fatores esparços**
@@ -48,7 +48,7 @@ D. C. L. Bessades, W. D. S. Costa and M. L. O. Santos, On unitary algebras with 
 
 A. Ioppolo, R. B. dos Santos, M. L. O. Santos and A. C. Vieira, Superalgebras with graded involution: classifying minimal varieties of quadratic growth. *Linear Algebra and its Appl.* **621** (2021) 105-134.  
 
-### **Raimundo Bastos**
+#### **Raimundo Bastos**
 Universidade de Brasília
 
 **Solubilidade e os subgrupos de Hall**
