@@ -35,7 +35,7 @@ Universidade Federal de Lavras
 Seja $\mathbb{F}_q$ um corpo finito com $q$ elementos e seja $n$ um inteiro positivo. Nessa palestra, discutiremos sobre o grafo associado à aplicação $x\mapsto x^n h(x^{\frac{q-1}{m}})$ sobre $\mathbb{F}_q$, onde $h(x)\in\mathbb{F}_q[x]$. Nosso objetivo é apresentar o grafo dessa aplicação no caso em que certas condições de regularidade são satisfeitas. Em particular, nossos resultados caracterizam completamente a dinâmica de funções monomiais sobre corpos finitos.
 
 
-<font size="4">**Maria Luiza Oliveira Santos**</font><BR/>
+#### **Maria Luiza Oliveira Santos**
 Universidade Federal Fluminense
 
 **Álgebras com involução graduada e crescimento quadrático das codimensões**
