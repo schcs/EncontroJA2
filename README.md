@@ -11,6 +11,13 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 
 - Claudemir Fideles Bezerra Jr. (Unicamp)
 - Dafne Bessades (Unicamp)
+- Danilo Sanção da Silveira (UFOP)
+- Felipe Yukihide Yasumura (USP)
 - José Alves Oliveira (UFLA)
+- José Luis Vilca Rodriguez (USP)
+- Luis Augusto de Mendonça (UFMG)
 - Maria Luiza Oliveira Santos (UFF)
+- Martino Garonzi (UnB)
+- Monique Muller (UFSJ)
+- Raimundo de Araújo Bastos Júnior (UnB)
 - Ricardo Luiz Souza (Colégio Batista Mineiro)
