@@ -11,6 +11,7 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 
 - Claudemir Fideles Bezerra Jr. (Unicamp)
 - Dafne Bessades (Unicamp)
+- Daniela Alves de Oliveira (UFMG)
 - Danilo Sanção da Silveira (UFOP)
 - Felipe Yukihide Yasumura (USP)
 - Fernando Augusto Naves (UFLA)
