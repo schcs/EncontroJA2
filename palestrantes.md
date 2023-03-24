@@ -21,14 +21,14 @@ Universidade Federal de Lavras
 $A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$
 
 Sejam $F$ um corpo de característica zero e $E$ a álgebra de Grassmann unitária de dimensão infinita sobre $F$.
-O estudo das $A$-identidades polinomiais começou com Henke e Regev em \cite{henke}. Eles estudaram as $A$-identidades da álgebra de Grassmann $E$. Nos anos seguintes, diversos trabalhos que abordavam a noção de $A$-identidades foram produzidos. Em particular, Brandão, Gonçalves e Koshlukov \cite{brandao} introduziram o conceito de $A$-identidade $\Z_2$-graduada. Eles descreveram as $A$-identidades $\Z_2$-graduadas para $M_2(F)$ e calcularam suas $A$-codimensões graduadas correspondentes. Inspirados nesse trabalho, em parceria com Talpo, descrevemos o conjunto de geradores de todas as $A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$ e calculamos as $A$-codimensões graduadas desta álgebra. Consideraremos a $\Z_2$-graduação na álgebra $R=M_{1,1}(E)$, $R=R_0 \oplus R_1$, onde $R_0$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal secundária e $R_1$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal principal. Apresentaremos nesta palestra tais resultados obtidos e discutiremos sobre a generalização do conceito de $A$-identidade $G$-graduada, onde $G$ é um grupo finito ordenado.
+O estudo das $A$-identidades polinomiais começou com Henke e Regev em [He]. Eles estudaram as $A$-identidades da álgebra de Grassmann $E$. Nos anos seguintes, diversos trabalhos que abordavam a noção de $A$-identidades foram produzidos. Em particular, Brandão, Gonçalves e Koshlukov [B] introduziram o conceito de $A$-identidade $\Z_2$-graduada. Eles descreveram as $A$-identidades $\Z_2$-graduadas para $M_2(F)$ e calcularam suas $A$-codimensões graduadas correspondentes. Inspirados nesse trabalho, em parceria com Talpo, descrevemos o conjunto de geradores de todas as $A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$ e calculamos as $A$-codimensões graduadas desta álgebra. Consideraremos a $\Z_2$-graduação na álgebra $R=M_{1,1}(E)$, $R=R_0 \oplus R_1$, onde $R_0$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal secundária e $R_1$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal principal. Apresentaremos nesta palestra tais resultados obtidos e discutiremos sobre a generalização do conceito de $A$-identidade $G$-graduada, onde $G$ é um grupo finito ordenado.
 
 
 __Bibliografia__
 
-A. P. Brandão Jr, D. J. Gonçalves, and P. Koshlukov, Graded A-identities for the matrix algebra of order two, Int. J. Algebra Comput. 26 (8), 1617-1631, (2016).
+[B] A. P. Brandão Jr, D. J. Gonçalves, and P. Koshlukov, Graded A-identities for the matrix algebra of order two, Int. J. Algebra Comput. 26 (8), 1617-1631, (2016).
 
-A. Henke and A. Regev, $A$-codimensions and $A$-cocharacters, Israel J. Math. 133, 339-355, (2003).
+[He] A. Henke and A. Regev, $A$-codimensions and $A$-cocharacters, Israel J. Math. 133, 339-355, (2003).
 
 F. A. Naves, H. L. Talpo, Graded A-identities for $M_{1,1}(E)$, Linear and Multilinear Algebra, (2021).
 
@@ -77,11 +77,11 @@ Jordan algebras were introduced by the physicist Pascual Jordan to formalize not
 $$((x^2)y)x - (x^2)(yx) = 0,$$
 for all $x$, $y \in J$.
 
-Let $F$ be a field of characteristic different from $2$. Small-dimensional Jordan algebras over $F$ have been extensively studied and such two-dimensional algebras have been classified. In this talk (based on \cite{DDMV}) we classify the two-dimensional power-associative commutative algebras over $F$. As consequence, we obtain a classification of two-dimensional Jordan algebras over $F$ and prove that there exists, up to isomorphism, a unique two-dimensional nonassociative Jordan algebra. The construction of this algebra can be generalized naturally to produce a Jordan algebra $D$ with an arbitrary dimension. If $F$ is infinite, we determine a finite basis for the polynomial identities of $D$, as well of all associative Jordan algebras of dimension two. This is joint work with D. Diniz (UFCG), D. Gon\c{c}alves (UFSCar) and V. Silva (UFMG).
+Let $F$ be a field of characteristic different from $2$. Small-dimensional Jordan algebras over $F$ have been extensively studied and such two-dimensional algebras have been classified. In this talk (based on [DDSS]) we classify the two-dimensional power-associative commutative algebras over $F$. As consequence, we obtain a classification of two-dimensional Jordan algebras over $F$ and prove that there exists, up to isomorphism, a unique two-dimensional nonassociative Jordan algebra. The construction of this algebra can be generalized naturally to produce a Jordan algebra $D$ with an arbitrary dimension. If $F$ is infinite, we determine a finite basis for the polynomial identities of $D$, as well of all associative Jordan algebras of dimension two. This is joint work with D. Diniz (UFCG), D. Gon\c{c}alves (UFSCar) and V. Silva (UFMG).
 
 __Bibliografia__
 
-D. Diniz, D. Gonçalves, V. Silva e M. Souza, Two--dimensional Jordan algebras: Their classification and polynomial identities, LINEAR ALGEBRA AND ITS APPLICATIONS, 664, 104--125, 2023.
+[DDSS] D. Diniz, D. Gonçalves, V. Silva e M. Souza, Two--dimensional Jordan algebras: Their classification and polynomial identities, LINEAR ALGEBRA AND ITS APPLICATIONS, 664, 104--125, 2023.
  
 
 #### **Maria Luiza Oliveira Santos**
