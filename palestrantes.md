@@ -99,6 +99,13 @@ D. C. L. Bessades, W. D. S. Costa and M. L. O. Santos, On unitary algebras with 
 
 A. Ioppolo, R. B. dos Santos, M. L. O. Santos and A. C. Vieira, Superalgebras with graded involution: classifying minimal varieties of quadratic growth. *Linear Algebra and its Appl.* **621** (2021) 105-134.  
 
+#### **Martino Garonzi**
+Universidade de Brasília
+
+**Finite permutation groups: generation and coverings**
+
+In this talk, I will summarize some recent results in finite group theory concerning permutation groups, generation and coverings of groups. Usually generation and covering problems can be formulated in terms of maximal subgroups, and this process takes, via a standard argument, to the study of groups of permutations of a set X of size n which are primitive, i.e. they do not preserve any nontrivial partition of X. Such groups are classified by the O'Nan-Scott theorem and they include the simple and almost-simple groups. In general, the reduction problem and the solution in the primitive case are hard and it is meaningful to collect as much information as possible on both. The result I will present in the talk are joint with many co-authors.
+
 #### **Mateus Eduardo Salomão**
 Universidade Tecnológica Federal do Paraná
 
