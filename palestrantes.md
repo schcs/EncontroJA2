@@ -9,7 +9,7 @@ There are a number of important theorems on the subject of matrix embeddings. Ma
 When does a given ring have an embedding into $n \times n$ matrices over some commutative ring? An obvious necessary condition is that the ring must satisfy the polynomial identities of $n \times n$ matrices, but such condition is not sufficient for $n>2$. Procesi proved that an algebra $R$ with trace can be embedded into $n \times n$ matrices over some commutative ring if and only if it satisfies the Cayley-Hamilton identity of degree $n$. Here we recall that the Cayley--Hamilton polynomial of a matrix $a$ can be written as a polynomial whose coefficients are polynomials in the traces of $a^k$, $k\ge 1$. Such algebras are called Cayely-Hamilton algebras, and interestingly enough the image of this embedding coincides with a ring of invariants, suggesting some geometrical applications. The final goal of this talk will be to discuss these applications in algebras far beyond Cayley-Hamilton algebras, and we will present recent results on this topic.
 
 
-#### **Dafne Bessades**
+#### <font style="color:navy; font-weight:bold;">Dafne Bessades</font>
 Universidade Estadual de Campinas
 
 **Grau mínimo de identidades standard da álgebra de matrizes munida da involução graduada simplética**
@@ -19,7 +19,7 @@ Nesta palestra, veremos como podemos usar esse tipo de abordagem no estudo da mi
 
 
 
-#### **Daniela Alves de Oliveira** 
+#### <font style="color:navy; font-weight:bold;">Daniela Alves de Oliveira</font> 
 Universidade Federal de Minas Gerais
 
 **Polinômios sobre corpos binários com fatores esparços**
@@ -28,7 +28,7 @@ Seja $\mathbb F_q$ um corpo finito com $q$ elementos, onde $q$ é uma potência 
 
 Trabalho em colaboração com Lucas Reis.
 
-#### **Danilo Sanção da Silveira**
+#### <font style="color:navy; font-weight:bold;">Danilo Sanção da Silveira</font>
 Universidade Federal de Ouro Preto
 
 **Elementos de Torção Generalizada em Grupos**
@@ -37,14 +37,14 @@ Dizemos que um elemento de um grupo é de torção generalizada se algum produto
 
 Trabalho em colaboração com Raimundo Bastos (UnB) e  Csaba Schneider (UFMG).
 
-#### **Felipe Yukihide Yasumura**
+#### <font style="color:navy; font-weight:bold;">Felipe Yukihide Yasumura</font>
 Universidade de São Paulo
 
 **Homogeneous involutions on graded division algebras**
 
 We describe the so-called homogeneous involution on finite-dimensional graded-division algebra over an algebraically closed field. We also compute their graded polynomial identities with involution.
 
-#### **Fernando Augusto Naves**
+#### <font style="color:navy; font-weight:bold;">Fernando Augusto Naves</font>
 Universidade Federal de Lavras
 
 **$A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$**
@@ -63,14 +63,14 @@ F. A. Naves, H. L. Talpo, Graded A-identities for $M_{1,1}(E)$, Linear and Multi
 
 
 
-#### **José Alves Oliveira**
+#### <font style="color:navy; font-weight:bold;">José Alves Oliveira</font>
 Universidade Federal de Lavras
 
 **Dinâmica de funções polinomiais sobre corpos finitos**
 
 Seja $\mathbb{F}_q$ um corpo finito com $q$ elementos e seja $n$ um inteiro positivo. Nessa palestra, discutiremos sobre o grafo associado à aplicação $x\mapsto x^n h(x^{\frac{q-1}{m}})$ sobre $\mathbb{F}_q$, onde $h(x)\in\mathbb{F}_q[x]$. Nosso objetivo é apresentar o grafo dessa aplicação no caso em que certas condições de regularidade são satisfeitas. Em particular, nossos resultados caracterizam completamente a dinâmica de funções monomiais sobre corpos finitos.
 
-#### **José Luis Vilca Rodríguez**
+#### <font style="color:navy; font-weight:bold;">José Luis Vilca Rodríguez</font>
 Universidade de São Paulo
 
 **O problema de globalização de ações parciais de grupos em álgebras não associativas**
@@ -81,7 +81,7 @@ Vamos nos concentrar principalmente em algumas classes de álgebras de Lie, álg
 
 Os resultados aqui apresentados fazem parte de um trabalho em colaboração com W. Cortes (UFRGS).
 
-#### **Manuela da Silva Souza**
+#### <font style="color:navy; font-weight:bold;">Manuela da Silva Souza</font>
 Universidade Federal da Bahia
 
 **Two-dimensional Jordan algebras: classification and polynomial identities theory**
@@ -97,7 +97,7 @@ Let $F$ be a field of characteristic different from $2$. Small-dimensional Jorda
 [DDSS] D. Diniz, D. Gonçalves, V. Silva e M. Souza, Two--dimensional Jordan algebras: Their classification and polynomial identities, LINEAR ALGEBRA AND ITS APPLICATIONS, 664, 104--125, 2023.
  
 
-#### **Maria Luiza Oliveira Santos**
+#### <font style="color:navy; font-weight:bold;">Maria Luiza Oliveira Santos</font>
 Universidade Federal Fluminense
 
 **Álgebras com involução graduada e crescimento quadrático das codimensões**
@@ -110,21 +110,21 @@ D. C. L. Bessades, W. D. S. Costa and M. L. O. Santos, On unitary algebras with 
 
 A. Ioppolo, R. B. dos Santos, M. L. O. Santos and A. C. Vieira, Superalgebras with graded involution: classifying minimal varieties of quadratic growth. *Linear Algebra and its Appl.* **621** (2021) 105-134.  
 
-#### **Martino Garonzi**
+#### <font style="color:navy; font-weight:bold;">Martino Garonzi</font>
 Universidade de Brasília
 
 **Finite permutation groups: generation and coverings**
 
 In this talk, I will summarize some recent results in finite group theory concerning permutation groups, generation and coverings of groups. Usually generation and covering problems can be formulated in terms of maximal subgroups, and this process takes, via a standard argument, to the study of groups of permutations of a set $X$ of size $n$ which are primitive, i.e. they do not preserve any nontrivial partition of $X$. Such groups are classified by the O'Nan-Scott theorem and they include the simple and almost-simple groups. In general, the reduction problem and the solution in the primitive case are hard and it is meaningful to collect as much information as possible on both. The result I will present in the talk are joint with many co-authors.
 
-#### **Mateus Eduardo Salomão**
+#### <font style="color:navy; font-weight:bold;">Mateus Eduardo Salomão</font>
 Universidade Tecnológica Federal do Paraná
 
 **Identidades polinomiais para a álgebra de Jordam das matrizes triangulares superiores $2\times 2$**
 
 Nesta palestra, será apresentada uma descrição do T-ideal das identidades polinomiais para a álgebra de Jordan das matrizes triangulares superiores $2 \times 2$ sobre qualquer corpo (finito ou infinito) de característica diferente de 2 e serão exibidas bases para as correspondentes álgebras relativamente livres. Ademais, será discutido o Problema de Specht para este T-ideal no caso em que o corpo é infinito. 
 
-#### **Raimundo Bastos**
+#### <font style="color:navy; font-weight:bold;">Raimundo Bastos</font>
 Universidade de Brasília
 
 **Solubilidade e os subgrupos de Hall**
@@ -132,7 +132,7 @@ Universidade de Brasília
 O objetivo desta palestra será investigar propriedades de grupos que admitem um subgrupo solúvel de índice potência de primo. Mais ainda, apresentar critérios de solubilidade em termos da existência de subgrupos de Hall. Trabalho em colaboração com Csaba Schneider (UFMG).
 
  
-#### **Ricardo Luiz Souza** 
+#### <font style="color:navy; font-weight:bold;">Ricardo Luiz Souza</font> 
 Colégio Batista Mineiro
 
 **Representações linearmente topologizadas**
@@ -141,7 +141,7 @@ Todo curso introdutório de Teoria de Representações de Álgebras começa com 
 
 Nesta palestra vamos apresentar um jeito de dar uma topologia natural para espaços vetoriais, módulos e anéis, de forma a estender naturalmente diversos resultados que valem em dimensão finita para um contexto mais geral em dimensões infinitas. Especificamente, vamos mostrar como essa topologia é suficiente para demonstrar um teorema de adjunção tensor-hom, construir módulos livres e projetivos, e, afinal, dizer alguma coisa sobre a existência de sequências quase-split para tais módulos.
 
-#### **Victor Pretti**
+#### <font style="color:navy; font-weight:bold;">Victor Pretti</font>
 Universidade de São Paulo
 
 **Finding quiver regions on the space of Bridgeland stability conditions**
