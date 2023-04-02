@@ -1,6 +1,6 @@
 ## Palestras confirmadas
 
-#### **Claudemir Fideles Bezerra Jr.**
+#### <font style="color:indigo;">**Claudemir Fideles Bezerra Jr.**</font>
 Universidade Estadual de Campinas
 
 **A generalization of Cayley-Hamilton algebras and an introduction to their geometries**
@@ -69,6 +69,17 @@ Universidade Federal de Lavras
 **Dinâmica de funções polinomiais sobre corpos finitos**
 
 Seja $\mathbb{F}_q$ um corpo finito com $q$ elementos e seja $n$ um inteiro positivo. Nessa palestra, discutiremos sobre o grafo associado à aplicação $x\mapsto x^n h(x^{\frac{q-1}{m}})$ sobre $\mathbb{F}_q$, onde $h(x)\in\mathbb{F}_q[x]$. Nosso objetivo é apresentar o grafo dessa aplicação no caso em que certas condições de regularidade são satisfeitas. Em particular, nossos resultados caracterizam completamente a dinâmica de funções monomiais sobre corpos finitos.
+
+#### **José Luis Vilca Rodríguez**
+Universidade de São Paulo
+
+**O problema de globalização de ações parciais de grupos em álgebras não associativas**
+
+Grosso modo, uma ação de grupo parcial em uma álgebra é uma coleção de automorfismos parciais (bijeções entre ideais) que são compatíveis com a operação de grupo. O objetivo desta palestra é estudar em que condições uma ação parcial de um grupo em uma álgebra não associativa pode ser estendida a uma ação global (usual) de um grupo, ou seja, uma ação por automorfismo. Tal problema é conhecido como o problema da globalização, e a ação global é chamada de globalização.
+
+Vamos nos concentrar principalmente em algumas classes de álgebras de Lie, álgebras de Jordan e álgebras de Malcev, mostrando condições necessárias e suficientes para a existência e unicidade de uma globalização para uma ação parcial sobre essas álgebras.
+
+Os resultados aqui apresentados fazem parte de um trabalho em colaboração com W. Cortes (UFRGS).
 
 #### **Manuela da Silva Souza**
 Universidade Federal da Bahia
