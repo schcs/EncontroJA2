@@ -1,6 +1,6 @@
 ## Palestras confirmadas
 
-#### <font style="color:indigo;">**Claudemir Fideles Bezerra Jr.**</font>
+#### <font style="color:indigo; font-weight:bold">Claudemir Fideles Bezerra Jr.</font>
 Universidade Estadual de Campinas
 
 **A generalization of Cayley-Hamilton algebras and an introduction to their geometries**
