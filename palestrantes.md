@@ -127,7 +127,7 @@ Nesta palestra, será apresentada uma descrição do T-ideal das identidades pol
 #### <font style="color:navy; font-weight:bold;">Monique Muller Lopes Rocha</font>
 Universidade Federal de São João del-Rei
 
-Fatorações exatas de categorias de fusão
+**Fatorações exatas de categorias de fusão**
 
 O conceito de fatoração exata de categorias de fusão foi introduzido por Gelaki em 2017 e é uma generalização categórica para o conceito de fatoração exata de grupos finitos. Vamos ver que a fatoração exata de categorias de fusão induz uma fatoração exata nos grupos de graduação universal correspondentes, entre outras propriedades. Este é um trabalho em andamento em conjunto com Julia Plavnik e Héctor Martín Peña Pollastri. 
 
