@@ -20,7 +20,7 @@ Nesta palestra, veremos como podemos usar esse tipo de abordagem no estudo da mi
 
 
 #### <font style="color:navy; font-weight:bold;">Daniela Alves de Oliveira</font> 
-Universidade Federal de Minas Gerais
+Universidade de São Paulo (São Carlos)
 
 **Polinômios sobre corpos binários com fatores esparços**
 
@@ -123,6 +123,14 @@ Universidade Tecnológica Federal do Paraná
 **Identidades polinomiais para a álgebra de Jordam das matrizes triangulares superiores $2\times 2$**
 
 Nesta palestra, será apresentada uma descrição do T-ideal das identidades polinomiais para a álgebra de Jordan das matrizes triangulares superiores $2 \times 2$ sobre qualquer corpo (finito ou infinito) de característica diferente de 2 e serão exibidas bases para as correspondentes álgebras relativamente livres. Ademais, será discutido o Problema de Specht para este T-ideal no caso em que o corpo é infinito. 
+
+#### <font style="color:navy; font-weight:bold;">Monique Muller Lopes Rocha</font>
+Universidade Federal de São João del-Rei
+
+Fatorações exatas de categorias de fusão
+
+O conceito de fatoração exata de categorias de fusão foi introduzido por Gelaki em 2017 e é uma generalização categórica para o conceito de fatoração exata de grupos finitos. Vamos ver que a fatoração exata de categorias de fusão induz uma fatoração exata nos grupos de graduação universal correspondentes, entre outras propriedades. Este é um trabalho em andamento em conjunto com Julia Plavnik e Héctor Martín Peña Pollastri. 
+
 
 #### <font style="color:navy; font-weight:bold;">Raimundo Bastos</font>
 Universidade de Brasília
