@@ -81,6 +81,14 @@ Vamos nos concentrar principalmente em algumas classes de álgebras de Lie, álg
 
 Os resultados aqui apresentados fazem parte de um trabalho em colaboração com W. Cortes (UFRGS).
 
+#### <font style="color:navy; font-weight:bold;">Luis Augusto de Mendonça</font>
+Universidade Federal de Minas Gerais
+
+**Groups with the Magnus property**
+
+A group $G$ is said to have the Magnus property (MP) if any two elements $g, h \in G$ with the same normal closure are already conjugate or inverse-conjugate: $g = h^x$ or $g^{-1} = h^x$ for some $x \in G$. A well known result by W. Magnus asserts that free groups have MP. I will discuss such property for some classes of relatively free nilpotent and solvable groups. Joint work with B. Klopsch and J.M. Petschick.
+
+
 #### <font style="color:navy; font-weight:bold;">Manuela da Silva Souza</font>
 Universidade Federal da Bahia
 
