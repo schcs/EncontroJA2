@@ -1,5 +1,12 @@
 ## Palestras confirmadas
 
+#### <font style="color:navy; font-weight:bold;">Aislan Leal Fontes</font>
+Universidade Federal de Sergipe  
+
+**Espaço de Moduli de fibrados estáveis de posto 2 sobre $P^3$ com determinante ímpar**
+
+A classificação de fibrados estáveis sobre $P^3$ é um problema clássico em geometria algébrica. Horrocks mostrou que todo fibrado sobre $P^3$ é dado como cohomologia de uma mônada a qual consiste de soma de fibrados em retas. Denote por $\mathcal{B}(e,m)$ o espaço de moduli de fibrados estáveis de posto $2$ sobre $P^3$ com classes de Chern $c_1=e$ e $c_2=m$. Nessa palestra vamos revisar resultados da literatura para $c_1=-1, c_2\leq4$ e na sequência, abordar resultados obtidos recentemente acerca de $\mathcal{B}(e,m)$ para os casos $c_1=-1$ e $c_2=6, 8$. Este trabalho foi realizado em conjunto com Marcos Jardim durante meu pós-doutorado.
+
 #### <font style="color:navy; font-weight:bold;">Claudemir Fideles Bezerra Jr.</font>
 Universidade Estadual de Campinas
 
@@ -37,6 +44,14 @@ Dizemos que um elemento de um grupo é de torção generalizada se algum produto
 
 Trabalho em colaboração com Raimundo Bastos (UnB) e  Csaba Schneider (UFMG).
 
+#### <font style="color:navy; font-weight:bold;">Elkin Oveimar Quintero Vanegas</font>
+Universidade Federal do Amazonas
+
+**Irreducible modules over commutative power-associative algebras**
+
+We introduce the modules over the class of commutative power-associative algebras
+and we expose a connection, due to I. Shestakov, with Albert's problem (a problem of classification of finite-dimensional algebras) with irreducible modules. Furthermore, for any natural number $n$, we associate for the irreducible ${\mathfrak sl}_2(\mathbb{C})$-module of dimension $n$ an irreducible module of dimension $3n$ of the zero algebra of dimension four. Thus, we have examples of commutative power-associative algebras where its multiplicative enveloping algebra is either finite or infinite dimensional, so far as Jordan as well as Lie algebras.
+
 #### <font style="color:navy; font-weight:bold;">Felipe Yukihide Yasumura</font>
 Universidade de São Paulo
 
@@ -61,6 +76,18 @@ O estudo das $A$-identidades polinomiais começou com Henke e Regev em [He]. Ele
 
 F. A. Naves, H. L. Talpo, Graded A-identities for $M_{1,1}(E)$, Linear and Multilinear Algebra, (2021).
 
+#### <font style="color:navy; font-weight:bold;">Grasiela Martini</font>
+Universidade Federal do Rio Grande do Sul
+
+**Comódulo Coálgebra Parcial de Álgebras de Hopf de Multiplicadores**
+
+Neste trabalho estendemos a noção de comódulo coálgebra parcial ao contexto de álgebras de Hopf de multiplicadores. Além disso, construímos um coproduto smash parcial generalizando as construções de L. Delvaux em [2] e E. Batista e J. Vercruysse em [1].
+
+*Bibliografia*
+
+[1] E. Batista and J. Vercruysse, Dual Constructions for Partial Actions of Hopf Algebras, Journal of Pure and Applied Algebra 220 (2016), 518-559.
+
+[2] L. Delvaux, Semi-Direct Products of Multiplier Hopf Algebras: Smash Coproducts, Communications in Algebra 30 (2002), no.12, 5979-5997.
 
 
 #### <font style="color:navy; font-weight:bold;">José Alves Oliveira</font>
@@ -139,6 +166,21 @@ Universidade Federal de São João del-Rei
 
 O conceito de fatoração exata de categorias de fusão foi introduzido por Gelaki em 2017 e é uma generalização categórica para o conceito de fatoração exata de grupos finitos. Vamos ver que a fatoração exata de categorias de fusão induz uma fatoração exata nos grupos de graduação universal correspondentes, entre outras propriedades. Este é um trabalho em andamento em conjunto com Julia Plavnik e Héctor Martín Peña Pollastri. 
 
+#### <font style="color:navy; font-weight:bold;">Oscar Armando Hernández Morales</font>
+Universidade de São Paulo
+
+**New Generalized Imaginary Verma modules**
+
+In this talk will be to discuss a technique of constructing irreducible weight modules for any affine Kac-Moody algebra using the parabolic induction, in the case when the Levi factor of a parabolic subalgebra is infinite-dimensional and the central charge is nonzero. Our approach unifies and generalizes all previously known results with imposed restrictions on inducing modules.
+
+*Bibliografia*
+
+[1] V. Bekkert, G. Benkart, V. Futorny, I. Kashuba, New irreducible modules for Heisenberg and affine Lie algebras, J. Algebra 373 (2013) 284?298.
+[2] V. Futorny, I. Kashuba, Induced modules for Kac-Moody Lie algebras, SIGMA 5 (2009) P026.
+[3] V. Futorny, I. Kashuba, Generalized loop modules for affine Kac-Moody algebras, Dev. Math. 38 (2014) 175?183.
+[4] V. Futorny, I. Kashuba, Structure of parabolically induced modules for affine Kac?Moody algebras, J. Algebra 500 (2018) 362?374.
+[5] M. Guerrini, I. Kashuba, O. Morales, A. de Oliveira, F. J. Santos, Generalized imaginary Verma and Wakimoto modules, J Pure Appl Algebra, Vol. 227, Issue 7 (2023).
+
 
 #### <font style="color:navy; font-weight:bold;">Raimundo Bastos</font>
 Universidade de Brasília
@@ -157,9 +199,33 @@ Todo curso introdutório de Teoria de Representações de Álgebras começa com 
 
 Nesta palestra vamos apresentar um jeito de dar uma topologia natural para espaços vetoriais, módulos e anéis, de forma a estender naturalmente diversos resultados que valem em dimensão finita para um contexto mais geral em dimensões infinitas. Especificamente, vamos mostrar como essa topologia é suficiente para demonstrar um teorema de adjunção tensor-hom, construir módulos livres e projetivos, e, afinal, dizer alguma coisa sobre a existência de sequências quase-split para tais módulos.
 
+#### <font style="color:navy; font-weight:bold;">Sarah Faria Monteiro Mazzini Costa</font>
+Universidade Federal de Uberlândia  
+
+**Interseções Completas e Pontos de Weierstrass**
+
+Existem alguns avanços relacionados à racionalidade do espaço de moduli de curvas algébricas pontuadas de gênero g e semigrupo de Weierstrass S, onde os semigrupos estudados têm gênero menor ou igual a 6. Utilizando a compactificação deste espaço de moduli descrita por Contiero e Stohr, temos que este é dado pelo anulamento de um sistema de equações cujas variáveis são coeficientes das syzygies isobáricas resultantes do desdobramento dos geradores da curva monomial que realiza o semigrupo. Projetando a curva monomial no espaço afim de dimensão n, em que n é a dimensão de mergulho do semigrupo, e supondo que a curva é interseção completa, é possível mostrar que a compactificação do espaço de moduli é isomorfa à projetivização da parte negativamente graduada do primeiro módulo de cohomologia do complexo cotangente associado à curva.
+
 #### <font style="color:navy; font-weight:bold;">Victor Pretti</font>
 Universidade de São Paulo
 
 **Finding quiver regions on the space of Bridgeland stability conditions**
 
 The moduli of instantons bundles over a Fano threefold have been under investigation by many authors during the last 50 years. Their relation with exceptional collections and monads has already been proven to be useful in many situations, such as the ADHM equations and D.Faenzi's work, for example. Now, to use this relation in the context of Bridgeland stability, we need to find a region where Bridgeland and quiver stability coincide, in that way also obtaining general information about these moduli spaces. We will present a systematic way of describing these quiver regions whenever a Bridgeland stability condition exists.
+
+#### <font style="color:navy; font-weight:bold;">Willian Goulart Gomes Velasco</font>
+Universidade Federal do Paraná
+
+**A álgebra parcial de um grupo como a álgebra de convolução de uma categoria inversa**
+
+Ações parciais de grupo formam um campo teórico (em teoria de
+representações, álgebra de operadores e afins) que engloba as ações de grupo usuais. Assim como estas, ações parciais induzem a definição de uma álgebra de grupo, aqui chamada de álgebra parcial de grupo. Nesta palestra discorreremos sobre as estruturas algébricas envolvidas na definição de tal álgebra. parcial. Isto nos motivar a (re)interpretar tais fatos do ponto de vista categórico. Em particular, por meio de ações fibradas de categorias inversas em conjuntos. 
+
+Este trabalho foi realizado em colaboração com Marcelo M. Alves (UFPR); apresentaremos resultados ainda não publicados decorrentes da tese de doutoramento do palestrante, trabalho intitulado Algebras of expanded structures.
+
+#### <font style="color:navy; font-weight:bold;">Willian Versolati França</font>
+Universidade Federal de Juiz de Fora  
+
+**Functional Identities on subsets not closed under addition**
+
+In this talk we aim to present some of the recent results in this theory. At the end we intend to suggest new problems in this line of investigation.
