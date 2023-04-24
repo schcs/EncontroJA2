@@ -9,12 +9,15 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 
 ## Palestrantes confirmados
 
+- Aislan Leal Fontes (UFSE)
 - Claudemir Fideles Bezerra Jr. (Unicamp)
 - Dafne Bessades (Unicamp)
 - Daniela Alves de Oliveira (ICMC-USP)
 - Danilo Sanção da Silveira (UFOP)
+- Elkin Oveimar Quintero Vanegas (UFAM)
 - Felipe Yukihide Yasumura (IME-USP)
 - Fernando Augusto Naves (UFLA)
+- Grasiela Martini (UFRGS)
 - José Alves Oliveira (UFLA)
 - José Luis Vilca Rodriguez (IME-USP)
 - Luis Augusto de Mendonça (UFMG)
@@ -23,6 +26,10 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 - Martino Garonzi (UnB)
 - Mateus Eduardo Salomão (UTFPR)
 - Monique Muller (UFSJ)
+- Oscar Armando Hernández Morales (IME-USP)
 - Raimundo de Araújo Bastos Júnior (UnB)
 - Ricardo Luiz Souza (Colégio Batista Mineiro)
+- Sarah Faria Monteiro Mazzini Costa (UFU)
 - Victor Pretti (IME-USP)
+- Willian Goulart Gomes Velasco (UFPR)
+- Willian Versolati França (UFJF)

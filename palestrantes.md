@@ -175,10 +175,14 @@ In this talk will be to discuss a technique of constructing irreducible weight m
 
 *Bibliografia*
 
-[1] V. Bekkert, G. Benkart, V. Futorny, I. Kashuba, New irreducible modules for Heisenberg and affine Lie algebras, J. Algebra 373 (2013) 284?298.
+[1] V. Bekkert, G. Benkart, V. Futorny, I. Kashuba, New irreducible modules for Heisenberg and affine Lie algebras, J. Algebra 373 (2013) 284-298.
+
 [2] V. Futorny, I. Kashuba, Induced modules for Kac-Moody Lie algebras, SIGMA 5 (2009) P026.
-[3] V. Futorny, I. Kashuba, Generalized loop modules for affine Kac-Moody algebras, Dev. Math. 38 (2014) 175?183.
-[4] V. Futorny, I. Kashuba, Structure of parabolically induced modules for affine Kac?Moody algebras, J. Algebra 500 (2018) 362?374.
+
+[3] V. Futorny, I. Kashuba, Generalized loop modules for affine Kac-Moody algebras, Dev. Math. 38 (2014) 175-183.
+
+[4] V. Futorny, I. Kashuba, Structure of parabolically induced modules for affine Kac?Moody algebras, J. Algebra 500 (2018) 362-374.
+
 [5] M. Guerrini, I. Kashuba, O. Morales, A. de Oliveira, F. J. Santos, Generalized imaginary Verma and Wakimoto modules, J Pure Appl Algebra, Vol. 227, Issue 7 (2023).
 
 
