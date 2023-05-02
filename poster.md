@@ -88,8 +88,10 @@ UFRGS
 
 **Characterizing the Azumaya-Galois extension in groupoids context**
 
-Let $\mathcal{G}$ be a finite groupoid, $R$ a $\beta$-Galois extension of $R^{\beta}$, $C$ the center of $R$ and ${\mathcal H}_{C}$ be a 
+Let $\mathcal{G}$ be a finite groupoid, $R$ a $\beta$-Galois extension of $R^{\beta}$, $C$ the center of $R$ and $H$ be a 
 suitable subgroupoid of $\mathcal{G}$. In this work we will characterized an Azumaya 
+$\beta_{H}$-Galois extension $R$ using 
+$R_{H}=\bigoplus_{h \in H} J_h$, 
 where $J_h$ is a determined $C$-submodule of $R$.
 
 
