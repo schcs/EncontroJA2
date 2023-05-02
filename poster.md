@@ -101,7 +101,7 @@ UFRGS
 
 **Exemplos de Álgebras de Nichols provenientes de soluções da Equação de Yang-Baxter em dimensão 3**
 
-Álgebras de Nichols têm sido um importante objeto de estudo dentro do programa de classificação de álgebras de Hopf. Dado um espaço vetorial trançado (rígido) $(V,c)$, a álgebra de Nichols $\mathfrak{B}(V)$ é uma álgebra de Hopf trançada na categoria dos módulos de Yetter-Drinfeld ${}^H_H \mathcal{YD}$, para alguma álgebra de Hopf $H$, e com isso $\mathfrak{B}(V) \#H$ é então uma álgebra de Hopf. Como espaços vetoriais trançados estão em correspondência com soluções da Equação de Yang-Baxter (YBE), nós utilizamos as soluções triangulares superiores da YBE em dimensão 3 obtidas por Hietarinta em [2] para calcular novos exemplos de álgebras de Nichols $\mathfrak{B}(V)$.
+Álgebras de Nichols têm sido um importante objeto de estudo dentro do programa de classificação de álgebras de Hopf. Dado um espaço vetorial trançado (rígido) $(V,c)$, a álgebra de Nichols $\mathfrak{B}(V)$ é uma álgebra de Hopf trançada na categoria dos módulos de Yetter-Drinfeld ${}^H_H \mathcal{YD}$, para alguma álgebra de Hopf $H$, e com isso $\mathfrak{B}(V) \# H$ é então uma álgebra de Hopf. Como espaços vetoriais trançados estão em correspondência com soluções da Equação de Yang-Baxter (YBE), nós utilizamos as soluções triangulares superiores da YBE em dimensão 3 obtidas por Hietarinta em [2] para calcular novos exemplos de álgebras de Nichols $\mathfrak{B}(V)$.
 Este trabalho é uma continuação de [1], e foi realizado em colaboração com João M. J. Giraldi (UFRGS).
 
 *Bibliografia*
