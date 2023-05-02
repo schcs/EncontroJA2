@@ -19,7 +19,7 @@ K. C. Halasz, Coloring Cayley tables of finite groups, MSc thesis, Simon Fraser 
 
 M. Hall and L. J. Paige, Complete mappings of finite groups, Pacific J. Math. 5 (1955), 541-549.
 
-I. M. Wanless, A generalization of transversals for Latin squares, Electron. J. Combin. 9(1) (2002), $\#$R12.
+I. M. Wanless, A generalization of transversals for Latin squares, Electron. J. Combin. 9(1) (2002), &#35;R12.
 
 I. M. Wanless and B. S. Webb, The existence of Latin squares without orthogonal mates, Des. Codes Cryptogr. 40 (2006), 131-135
 
