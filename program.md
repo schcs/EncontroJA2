@@ -1,6 +1,8 @@
 ### Programação 
 
-A seguinte planilha contém a programação proposta do evento. Informações adicionais sobre as palestras serão dispinbilizadas mais tarde. 
+A seguinte planilha contém a programação do evento. 
+
+O evento será realizado na sala 3060 no ICEx/UFMG.
 
 | Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
 | :---:  | :---: | :---: | :---: |
@@ -18,3 +20,5 @@ A seguinte planilha contém a programação proposta do evento. Informações ad
 | 16:00 - 16:25  | <font color="red">Mateus Salomão</font><BR>(UTFPR)    | <font color="saddlebrown">Sessão de Pôsteres</font>         |               |
 | 16:30 - 16:55  | <font color="red">Elkin Vanegas</font><BR>(UFAM)    | <font color="red">Luís Mendonça</font><BR>(UFMG)         |               |
 | 17:00 - 17:25  | <font color="red">José Alves</font><BR>(UFLA)    | <font color="red">Felipe Yasumura</font><BR>(IME-USP)         |               |
+
+Para baixar a programação em PDF, [clique aqui](program.pdf).
