@@ -4,11 +4,11 @@ Nos últimos anos, a área de pesquisa Álgebra tem se tornado uma das mais prom
 
 Pensando na comunidade de jovens algebristas formados nos últimos anos nos diversos programas de pós-graduação de modo geral, entendemos que é importante a realização de eventos para que estes possam interagir e falar sobre o progresso de seus trabalhos. 
 
-Estão previstas apresentações de palestras proferidas por jovens pesquisadores da área de Álgebra, especialmente convidados para o evento. Pretendemos atrair participantes de diversas instituições do Brasil para participação efetiva das atividades. Contaremos ainda com uma sessão de apresentação de pôsteres.
-
+O evento contará com apresentações de palestras,  e também de pôsteres,  por jovens pesquisadores da área de Álgebra das mais diversas instituições e regiões do Brasil.  O dia 11/05 será dedicado à celebração das mulheres na álgebra, antecipando as comemorações pelo dia das mulheres na matemática, o qual é celebrado mundialmente no dia 12/05.
 
 ## Palestrantes confirmados
 
+- Adriana Juzga Leon (UFMG)
 - Aislan Leal Fontes (UFSE)
 - Claudemir Fideles Bezerra Jr. (Unicamp)
 - Dafne Bessades (Unicamp)
@@ -33,3 +33,6 @@ Estão previstas apresentações de palestras proferidas por jovens pesquisadore
 - Victor Pretti (IME-USP)
 - Willian Goulart Gomes Velasco (UFPR)
 - Willian Versolati França (UFJF)
+
+
+![Patricinado pelo INCT](/path/to/INCT.jpg "INCT") ![Patricinado pelo PPGMat-UMFG](/path/to/logo_Ppgmat.png "PPGMat-UFMG")  

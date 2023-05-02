@@ -1,5 +1,29 @@
 ## Palestras confirmadas
 
+#### <font style="color:navy; font-weight:bold;">Adriana Juzga León</font>
+Universidade Federal de Minas Gerais
+
+**An introduction to the study of Latin squares**
+
+A Latin square of order $n$ is an $n \times n$ array of cells containing entries from an alphabet of size $n$ in which no entry appears more than once in any row or column. Latin squares are widely used in various areas of science, such as quantum mechanics and projective geometry. In the literature it is common to divide the study of Latin squares into three areas: completion, enumeration, and orthogonality.  This talk will present an introduction to the study of Latin squares following the third category. It will also show how from the study of the Latin squares and the existence of some subsets of interest in them, various problems related to group theory, loop theory and graph coloring can be studied.
+
+*Bibliography*
+
+N. J. Cavenagh and J. Kuhl, On the chromatic index of Latin squares, Contrib. Discrete Math. 10 (2015), 22-30.
+
+J. Dénes and A. D. Keedwell, Latin squares and their applications, Elsevier/NorthHolland, Amsterdam, second edition, 2015.
+
+J. Dénes and A. D. Keedwell, Latin squares: New developments in the theory and applications, Ann. Discrete Math., 46, North-Holland, Amsterdam, 1991.
+
+K. C. Halasz, Coloring Cayley tables of finite groups, MSc thesis, Simon Fraser University, 2017.
+
+M. Hall and L. J. Paige, Complete mappings of finite groups, Pacific J. Math. 5 (1955), 541-549.
+
+I. M. Wanless, A generalization of transversals for Latin squares, Electron. J. Combin. 9(1) (2002), $\#$R12.
+
+I. M. Wanless and B. S. Webb, The existence of Latin squares without orthogonal mates, Des. Codes Cryptogr. 40 (2006), 131-135
+
+
 #### <font style="color:navy; font-weight:bold;">Aislan Leal Fontes</font>
 Universidade Federal de Sergipe  
 
