@@ -90,7 +90,6 @@ UFRGS
 
 Let $\mathcal{G}$ be a finite groupoid, $R$ a $\beta$-Galois extension of $R^{\beta}$, $C$ the center of $R$ and ${\mathcal H}_{C}$ be a 
 suitable subgroupoid of $\mathcal{G}$. In this work we will characterized an Azumaya 
-$R_{{\mathcal H}_{C}}=\bigoplus_{h \in {\mathcal H}_{C}} J_h$, 
 where $J_h$ is a determined $C$-submodule of $R$.
 
 
