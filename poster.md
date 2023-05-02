@@ -16,7 +16,7 @@ UFMG
 
 **Digraphs of power maps over finite nilpotent groups**
 
-Given a finite group $G$ and an integer $t$, let $\Gamma_t(G)$ be the directed graph with vertex set $G$ and directed edges $g\to g^t, g\in G$. In this work we provide some results connecting the graph structure of $\Gamma_t(G)$ and the algebraic properties of $G$. In particular, we prove that nilpotent groups are precisely the class of groups yielding a special symmetry on the graphs $\Gamma_t(G)$ that has appeared several times in the literature (considering functions over various algebraic structures). We also show that if $G$ is a finite nilpotent group and, for the prime divisors $p_1,\cdots, p_r$ of $|G|$ the unique Sylow $p_i$-subgroup of $G$ is a regular $p_i$ group, then there exists an abelian group $A$ such that $\Gamma_t(G)\cong\Gamma_t(A)$ for every $t\in \mathbb{Z}$.
+Given a finite group $G$ and an integer $t$, let $\Gamma_t(G)$ be the directed graph with vertex set $G$ and directed edges $g\to g^t, g\in G$. In this work we provide some results connecting the graph structure of $\Gamma_t(G)$ and the algebraic properties of $G$. In particular, we prove that nilpotent groups are precisely the class of groups yielding a special symmetry on the graphs $\Gamma_t(G)$ that has appeared several times in the literature (considering functions over various algebraic structures). We also show that if $G$ is a finite nilpotent group and, for the prime divisors $p_1,\cdots, p_r$ of the order of $G$, the unique Sylow $p_i$-subgroup of $G$ is a regular $p_i$ group, then there exists an abelian group $A$ such that $\Gamma_t(G)\cong\Gamma_t(A)$ for every $t\in \mathbb{Z}$.
 
 
 
@@ -39,9 +39,9 @@ Dizemos que uma variedade satisfaz uma equação de Laplace de ordem $d$, para u
 
 *Bibliografia*
 
-[1] E.\ Togliatti, Alcuni esempi di superfici algebriche degli iperspazi che rappresentano un'equazione di Laplace, Comm. Math. Helvetici 1 (1929), 255-272.
+[1] E. Togliatti, Alcuni esempi di superfici algebriche degli iperspazi che rappresentano un'equazione di Laplace, Comm. Math. Helvetici 1 (1929), 255-272.
 
-[2] E.\ Togliatti, Alcune osservazioni sulle superfici razionali che rappresentano equazioni di Laplace, Ann. Mat. Pura Appl. (4) 25 (1946) 325-339.
+[2] E. Togliatti, Alcune osservazioni sulle superfici razionali che rappresentano equazioni di Laplace, Ann. Mat. Pura Appl. (4) 25 (1946) 325-339.
 
 
 
@@ -54,7 +54,7 @@ UnB
 Nessa apresentação vamos explicar a versão pro-p dos Teoremas de Rips-Sela sobre descomposição  como um produto livre amalgamado ou HNN-extensão sobre um grupo pro-cíclico. Além disso alguns resultados sobre commensurador e algumas aplicações.
 
 
-<name João Matheus Jury Giraldi</font> 
+<font style="color:navy; font-weight:bold;">João Matheus Jury Giraldi</font> 
 UFRGS
 
 **Nichols algebras that are quantum planes**
@@ -76,9 +76,10 @@ In this work, we solve this question for quantum planes. More specically, the cl
 
 <font style="color:navy; font-weight:bold;">Juan Antonio Pacheco Cruz</font> 
 UFMG
+
 **Identidades e polinômios centrais da álgebra de matrizes de ordem 2 com involução graduada**
 
-Dado $F$ um corpo infinito e $M_{1,1}(F)$ a álgebra de matrizes de ordem 2 sobre $F$ munida da graduação não trivial, consideramos $*$ uma involução definida em $M_{1,1}(F)$ que preserva as componentes homogêneas desta graduação. Nesta apresentação, estudaremos a $*$-superálgebra $M_{1,1}(F)$ e determinaremos os geradores do ideal formado pelos $(\mathbb{Z}_2,*)$-identidades, considerando que $F$ é de característica zero e enunciaremos explicitamente os geradores do espaço formados pelos $(\mathbb{Z}_2,*)$-polinômios centrais quando $F$ possui característica diferente de 2.   
+Dado $F$ um corpo infinito e $M_{1,1}(F)$ a álgebra de matrizes de ordem 2 sobre $F$ munida da graduação não trivial, consideramos &ast; uma involução definida em $M_{1,1}(F)$ que preserva as componentes homogêneas desta graduação. Nesta apresentação, estudaremos a &ast;-superálgebra $M_{1,1}(F)$ e determinaremos os geradores do ideal formado pelos $(\mathbb{Z}_2,&ast;)$-identidades, considerando que $F$ é de característica zero e enunciaremos explicitamente os geradores do espaço formados pelos $(\mathbb{Z}_2,&ast;)$-polinômios centrais quando $F$ possui característica diferente de 2.   
 
 
 
@@ -87,7 +88,7 @@ UFRGS
 
 **Characterizing the Azumaya-Galois extension in groupoids context**
 
-Let $\mathcal{G}$ be a finite groupoid, $R$ a $\beta$-Galois extension of $R^{\beta}$, $C$ the center of $R$ and $\mathcal{H}_{C}$ be a suitable subgroupoid of $\mathcal{G}$. In this work we will characterized an Azumaya $\beta_{\mathcal{H}_{C}}$-Galois extension $R$ using $R_{\mathcal{H}_{C}}=\bigoplus_{h \in \mathcal{H}_{C}} J_h$, where $J_h$ is a determined $C$-submodule of $R$.
+Let $\mathcal{G}$ be a finite groupoid, $R$ a $\beta$-Galois extension of $R^{\beta}$, $C$ the center of $R$ and ${\mathcal H}_{C}$ be a suitable subgroupoid of $\mathcal{G}$. In this work we will characterized an Azumaya $\beta_{{\mathcal H}_{C}}$-Galois extension $R$ using $R_{{\mathcal H}_{C}}=\bigoplus_{h \in {\mathcal H}_{C}} J_h$, where $J_h$ is a determined $C$-submodule of $R$.
 
 
 <font style="color:navy; font-weight:bold;">Leonardo Duarte Silva</font>
@@ -96,7 +97,7 @@ UFRGS
 
 **Exemplos de Álgebras de Nichols provenientes de soluções da Equação de Yang-Baxter em dimensão 3**
 
-Álgebras de Nichols têm sido um importante objeto de estudo dentro do programa de classificação de álgebras de Hopf. Dado um espaço vetorial trançado (rígido) $(V,c)$, a álgebra de Nichols $\mathfrak{B}(V)$ é uma álgebra de Hopf trançada na categoria dos módulos de Yetter-Drinfeld ${}^H_H \mathcal{YD}$, para alguma álgebra de Hopf $H$, e com isso $\mathfrak{B}(V) \#H$ é então uma álgebra de Hopf. Como espaços vetoriais trançados estão em correspondência com soluções da Equação de Yang-Baxter (YBE), nós utilizamos as soluções triangulares superiores da YBE em dimensão 3 obtidas por Hietarinta em [2] para calcular novos exemplos de álgebras de Nichols $\mathfrak{B}(V)$.
+Álgebras de Nichols têm sido um importante objeto de estudo dentro do programa de classificação de álgebras de Hopf. Dado um espaço vetorial trançado (rígido) $(V,c)$, a álgebra de Nichols $\mathfrak{B}(V)$ é uma álgebra de Hopf trançada na categoria dos módulos de Yetter-Drinfeld ${}^H_H \mathcal{YD}$, para alguma álgebra de Hopf $H$, e com isso $\mathfrak{B}(V) &#35;H$ é então uma álgebra de Hopf. Como espaços vetoriais trançados estão em correspondência com soluções da Equação de Yang-Baxter (YBE), nós utilizamos as soluções triangulares superiores da YBE em dimensão 3 obtidas por Hietarinta em [2] para calcular novos exemplos de álgebras de Nichols $\mathfrak{B}(V)$.
 Este trabalho é uma continuação de [1], e foi realizado em colaboração com João M. J. Giraldi (UFRGS).
 
 *Bibliografia*
@@ -229,7 +230,7 @@ UFMG
 
 **Graded algebras with group graded involution and $(G,*)$-colength bounded by $3$**
 
-The classification of varieties with small colength was widely studied in different contexts. For instance, Giambruno and La Mattina used the representation theory of the symmetric group to classify varieties of algebras with colength bounded by $2$ and latter by $4$. In $2013$, Vieira presented the classification of varieties of superalgebras with $\mathbb{Z}_2$-colength bounded by $2$. In $2018$, La Mattina, Nascimento and Vieira provided the classification to the class of algebras with involution, classifying those varieties of $*$-colength bounded by $3$. In this work, we consider $G$ to be a finite abelian group and $A$ to be a finite dimensional $(G,*)$-algebra over a field of characteristic zero, i.e. a group-graded algebra endowed with a graded involution $*$. In particular, if $G$ is the cyclic group or order two, $A$ is called to be a $*$-superalgebra. The classification of varieties of $*$-superalgebras with $(\mathbb{Z}_2,*)$-colength bounded by $3$ was presented in $2018$ by Nascimento and Vieira. In this poster, we classify $(G,*)$-varieties $\mathcal{V}$ whose $(G,*)$-colength is bounded by $3$, where $G$ is any finite abelian group and $\mathcal{V}$ is generated by a finite dimensional $(G,*)$-algebra, extending the result of Nascimento and Vieira. 
+The classification of varieties with small colength was widely studied in different contexts. For instance, Giambruno and La Mattina used the representation theory of the symmetric group to classify varieties of algebras with colength bounded by $2$ and latter by $4$. In $2013$, Vieira presented the classification of varieties of superalgebras with $\mathbb{Z}_2$-colength bounded by $2$. In $2018$, La Mattina, Nascimento and Vieira provided the classification to the class of algebras with involution, classifying those varieties of &ast;-colength bounded by $3$. In this work, we consider $G$ to be a finite abelian group and $A$ to be a finite dimensional $(G,*)$-algebra over a field of characteristic zero, i.e. a group-graded algebra endowed with a graded involution $*$. In particular, if $G$ is the cyclic group or order two, $A$ is called to be a $*$-superalgebra. The classification of varieties of $*$-superalgebras with $(\mathbb{Z}_2,*)$-colength bounded by $3$ was presented in $2018$ by Nascimento and Vieira. In this poster, we classify $(G,*)$-varieties $\mathcal{V}$ whose $(G,*)$-colength is bounded by $3$, where $G$ is any finite abelian group and $\mathcal{V}$ is generated by a finite dimensional $(G,*)$-algebra, extending the result of Nascimento and Vieira. 
 
 
 

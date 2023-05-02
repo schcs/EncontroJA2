@@ -1,4 +1,4 @@
-## Palestras confirmadas
+## Resumos das Palestras
 
 #### <font style="color:navy; font-weight:bold;">Adriana Juzga León</font>
 Universidade Federal de Minas Gerais
