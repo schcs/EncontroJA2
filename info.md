@@ -7,7 +7,7 @@ menus:
 ---
 ### Local do evento 
 
-O evento será presencial e ocorrerá nas dependências do Instituto de Ciências Exatas da UFMG, 
+O evento será presencial e ocorrerá nas dependências do Instituto de Ciências Exatas da UFMG (sala 3060), 
 localizado na Av. Antônio Carlos 6627, Pampulha – BH
 
 ### Hotéis na região da Pampulha:
