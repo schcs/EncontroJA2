@@ -1,6 +1,6 @@
 ## Resumos dos Pôsteres
 
-<font style="color:navy; font-weight:bold;">Abraham Rojas Vega</font>
+##### <font style="color:navy; font-weight:bold;">Abraham Rojas Vega</font>
 ICMC-USP
 
 **Algebraic applications of intersection homology**
@@ -11,7 +11,7 @@ We present this approach and how it is used to generalize the "smooth" propertie
 
 
 
-<font style="color:navy; font-weight:bold;">Arthur Fernandes Papa Pereira</font> 
+##### <font style="color:navy; font-weight:bold;">Arthur Fernandes Papa Pereira</font> 
 UFMG
 
 **Digraphs of power maps over finite nilpotent groups**
@@ -20,7 +20,7 @@ Given a finite group $G$ and an integer $t$, let $\Gamma_t(G)$ be the directed g
 
 
 
-<font style="color:navy; font-weight:bold;">Douglas Vilela de Paiva Silva</font> 
+##### <font style="color:navy; font-weight:bold;">Douglas Vilela de Paiva Silva</font> 
 UFMG
 
 **Introdução e apresentação do grupo de tranças de Artin**
@@ -30,7 +30,7 @@ O grupo de tranças introduzido por Artin aparece naturalmente como o grupo fund
 
 
 
-<font style="color:navy; font-weight:bold;">Janaíne Geralda Mesquita Martins</font>
+##### <font style="color:navy; font-weight:bold;">Janaíne Geralda Mesquita Martins</font>
 UFMG
 
 **A superfície de Togliatti e propriedades de Lefschetz**
@@ -46,7 +46,7 @@ Dizemos que uma variedade satisfaz uma equação de Laplace de ordem $d$, para u
 
 
 
-<font style="color:navy; font-weight:bold;">Jesús Eduardo Berdugo De La Ossa</font> 
+##### <font style="color:navy; font-weight:bold;">Jesús Eduardo Berdugo De La Ossa</font> 
 UnB
 
 **Versão pro-p dos Teoremas de Rips-Sela**
@@ -54,7 +54,7 @@ UnB
 Nessa apresentação vamos explicar a versão pro-p dos Teoremas de Rips-Sela sobre descomposição  como um produto livre amalgamado ou HNN-extensão sobre um grupo pro-cíclico. Além disso alguns resultados sobre commensurador e algumas aplicações.
 
 
-<font style="color:navy; font-weight:bold;">João Matheus Jury Giraldi</font> 
+##### <font style="color:navy; font-weight:bold;">João Matheus Jury Giraldi</font> 
 UFRGS
 
 **Nichols algebras that are quantum planes**
@@ -74,7 +74,7 @@ In this work, we solve this question for quantum planes. More specically, the cl
 
 
 
-<font style="color:navy; font-weight:bold;">Juan Antonio Pacheco Cruz</font> 
+##### <font style="color:navy; font-weight:bold;">Juan Antonio Pacheco Cruz</font> 
 UFMG
 
 **Identidades e polinômios centrais da álgebra de matrizes de ordem 2 com involução graduada**
@@ -83,7 +83,7 @@ Dado $F$ um corpo infinito e $M_{1,1}(F)$ a álgebra de matrizes de ordem 2 sobr
 
 
 
-<font style="color:navy; font-weight:bold;">Juliana Borges Pedrotti</font> 
+##### <font style="color:navy; font-weight:bold;">Juliana Borges Pedrotti</font> 
 UFRGS
 
 **Characterizing the Azumaya-Galois extension in groupoids context**
@@ -95,7 +95,7 @@ $R_{H}=\bigoplus_{h \in H} J_h$,
 where $J_h$ is a determined $C$-submodule of $R$.
 
 
-<font style="color:navy; font-weight:bold;">Leonardo Duarte Silva</font>
+##### <font style="color:navy; font-weight:bold;">Leonardo Duarte Silva</font>
 
 UFRGS
 
@@ -111,7 +111,7 @@ Este trabalho é uma continuação de [1], e foi realizado em colaboração com 
 [2] Hietarinta, J. (1993). The upper triangular solutions to the three-state constant quantum Yang-Baxter equation. J. Phys. A: Math. Gen. 26(23):7077?7095.
 
 
-<font style="color:navy; font-weight:bold;">Lorena Mara Costa Oliveira</font>
+##### <font style="color:navy; font-weight:bold;">Lorena Mara Costa Oliveira</font>
 UFSJ
 
 **$(G,\ast)$-variedades de crescimento quase polinomial**
@@ -121,7 +121,7 @@ Em 2016 Giambruno, dos Santos e Vieira, classificaram as $(C_2,\ast)$-álgebras 
 
 
 
-<font style="color:navy; font-weight:bold;">Lucas Henrique Rocha de Souza</font> 
+##### <font style="color:navy; font-weight:bold;">Lucas Henrique Rocha de Souza</font> 
 UFMG
 
 **Topological characterizations of some boundaries of relatively hyperbolic group**
@@ -132,7 +132,7 @@ We show some cases where it is possible to characterize topologically a Bowditch
 
 
 
-<font style="color:navy; font-weight:bold;">Reyssila Franciane Dutra do Nascimento Vieira</font>
+##### <font style="color:navy; font-weight:bold;">Reyssila Franciane Dutra do Nascimento Vieira</font>
 UFMG
 
 **$(C_k, *)$-álgebras e $(C_2 \times C_2, *)$-álgebras com multiplicidades limitadas por um**
@@ -154,7 +154,7 @@ Em 1976, Ananin e Kemer caracterizaram álgebras cujas multiplicidades na decomp
 
 
 
-<font style="color:navy; font-weight:bold;">Robson Ricardo de Araujo</font>
+##### <font style="color:navy; font-weight:bold;">Robson Ricardo de Araujo</font>
 IFSP
 
 
@@ -164,7 +164,7 @@ Os reticulados, em especial aqueles obtidos via $\mathbb{Z}$-submódulos livres 
 
 
 
-<font style="color:navy; font-weight:bold;">Ronald Ismael Quispe Urure</font> 
+##### <font style="color:navy; font-weight:bold;">Ronald Ismael Quispe Urure</font> 
 UFJF
 
 **Involutions of the Second Kind for Upper Triangular Matrix Algebras**
@@ -175,7 +175,7 @@ As a consequence, the description of involutions of any kind on $ UT_n $ over a 
 
 
 
-<font style="color:navy; font-weight:bold;">Samuel Amador dos Santos Quirino</font> 
+##### <font style="color:navy; font-weight:bold;">Samuel Amador dos Santos Quirino</font> 
 IME-USP
 
 **A functorial approach to Gabriel quiver constructions**
@@ -184,7 +184,7 @@ In the 60's, Peter Gabriel presented a famous result, known nowadays as Gabriel'
 
 
 
-<font style="color:navy; font-weight:bold;">Sheucíer Alves de Medeiros</font>
+##### <font style="color:navy; font-weight:bold;">Sheucíer Alves de Medeiros</font>
 UFJF
 
 
@@ -195,7 +195,7 @@ A dequantificação de uma curva algébrica plana real é o processo de associá
 
 
 
-<font style="color:navy; font-weight:bold;">Tiago Henrique dos Reis</font>
+##### <font style="color:navy; font-weight:bold;">Tiago Henrique dos Reis</font>
 UTFPR
 
 **Laços de álgebras de evolução** 
@@ -203,7 +203,7 @@ UTFPR
 Álgebras de evolução são uma classe de álgebras não associativas que foram introduzidas em 2006 por Tian and Vojtechovsky e tem conexão com diversos campos de pesquisa, tais como teoria de grafos, teoria de grupos, cadeias de Markov, entre outros. Uma característica muito particular dessas álgebra é que elas não são definidas por identidades, mas sim pela existência de uma base com uma certa propriedade, chamada de base natural. Diversos trabalhos recentes utilizam a construção de grafo associado a uma álgebra de evolução, apresentado por Elduque e Labra em 2015, para estudar essas álgebras. Uma das questões acerca da utilização dos grafos associados é que o grafo varia de acordo com a base natural, então é interessante entender quais propriedades das álgebras de evolução são invariantes pela troca de base natural. Neste trabalho, inspirados pela conceito de laço em teoria de grafos, definimos o conjunto de laços de uma álgebra de evolução em relação a uma base natural e apresentamos condições necessárias e suficientes para que a quantidade de laços seja preservada se a base natural é trocada, quando a álgebra é não degenerada.
 
 
-<font style="color:navy; font-weight:bold;">Valéria Maria Ruela</font>
+##### <font style="color:navy; font-weight:bold;">Valéria Maria Ruela</font>
 IME-USP
 
 **Introdução às álgebras de Kac-Moody**
@@ -218,7 +218,7 @@ Em geral, não é possível definir uma forma bilinear simétrica para as álgeb
 
 
 
-<font style="color:navy; font-weight:bold;">Wesley Gonçalves Lautenschlaeger</font>
+##### <font style="color:navy; font-weight:bold;">Wesley Gonçalves Lautenschlaeger</font>
 UFRGS
 
 
@@ -228,7 +228,7 @@ Definimos o conceito de representação parcial de grupoide finito em uma álgeb
 
 
 
-<font style="color:navy; font-weight:bold;">Wesley Quaresma Cota</font>
+##### <font style="color:navy; font-weight:bold;">Wesley Quaresma Cota</font>
 UFMG
 
 
@@ -239,7 +239,7 @@ $ * $-colength bounded by $3$. In this work, we consider $G$ to be a finite abel
 
 
 
-<font style="color:navy; font-weight:bold;">Willer Daniel da Silva Costa</font>
+##### <font style="color:navy; font-weight:bold;">Willer Daniel da Silva Costa</font>
 UFES
 
 **Álgebras unitárias com uma involução graduada ou uma superinvolução de crescimento polinomial**

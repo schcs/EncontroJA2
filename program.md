@@ -6,10 +6,10 @@ O evento será realizado na sala 3060 no ICEx/UFMG.
 
 | Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
 | :---:  | :---: | :---: | :---: |
-| 9:30 - 9:55  |               | <font color="red">Raimundo Bastos</font><BR>(UnB)          | <font color="red">Manuela Sousa</font><BR>(UFBA)   |
+| 9:30 - 9:55  |               | <font color="red">Raimundo Bastos</font><BR>(UnB)          | <font color="red">Dafne Bessades</font><BR>(Unicamp)   |
 | 10:00 - 10:25  |               | <font color="red">Oscar Morales</font><BR>(IME-USP)          | <font color="red">Daniela de Oliveira</font><BR>(ICMC-USP)   |
 | 10:30 - 11:00  |               | <font color="green">Café</font>          | <font color="green">Café</font>   |
-| 11:00 - 11:25  |               | <font color="red">William França</font><BR>(UFJF)          | <font color="red">Dafne Bessades</font><BR>(Unicamp)   |
+| 11:00 - 11:25  |               | <font color="red">William França</font><BR>(UFJF)          | <font color="red">Manuela Sousa</font><BR>(UFBA)   |
 | 11:30 - 11:55  |               | <font color="red">Aislan Fontes</font><BR>(UFSE)          | <font color="red">Monique Muller</font><BR>(UFSJ)   |
 | 11:55 - 13:30  | <font color="blue">REGISTRO E ABERTURA<BR/>ÀS 13 HORAS</font>              | <font color="green">ALMOÇO</font>              | <font color="green">ALMOÇO</font>        |
 | 13:30 - 13:55  | <font color="red">Claudemir Fideles</font><BR>(Unicamp)    | <font color="red">Fernando Naves</font><BR>(UFLA)         | <font color="red">Grasiela Martini</font><BR>(UFRGS)   |
