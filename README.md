@@ -35,4 +35,4 @@ O evento contará com apresentações de palestras,  e também de pôsteres,  po
 - Willian Versolati França (UFJF)
 
 
-[![Patricinado pelo INCT](INCT.jpg "INCT")](https://inctmat.impa.br/) &emsp; &emsp; [![Patricinado pelo PPGMat-UMFG](logo_Ppgmat.png "PPGMat-UFMG")](https://www.mat.ufmg.br/posgrad/)
+[![Patricinado pelo INCT](INCT.jpg "INCT")](https://inctmat.impa.br/) &emsp; &emsp; [![Patricinado pelo PPGMat-UMFG](logo_Ppgmat.png "PPGMat-UFMG")](https://www.mat.ufmg.br/posgrad/) &emsp; &emsp; [![Patricinado pelo ApuBH](Logo-Apubh-Vermelha.jpg "ApuBH")](https://apubh.org.br/)
