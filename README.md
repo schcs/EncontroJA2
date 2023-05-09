@@ -6,7 +6,7 @@ Pensando na comunidade de jovens algebristas formados nos últimos anos nos dive
 
 O evento contará com apresentações de palestras,  e também de pôsteres,  por jovens pesquisadores da área de Álgebra das mais diversas instituições e regiões do Brasil.  O dia 11/05 será dedicado à celebração das mulheres na álgebra, antecipando as comemorações pelo dia das mulheres na matemática, o qual é celebrado mundialmente no dia 12/05.
 
-## Palestrantes confirmados
+## Palestrantes
 
 - Adriana Juzga Leon (UFMG)
 - Aislan Leal Fontes (UFSE)
