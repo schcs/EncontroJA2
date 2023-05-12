@@ -42,7 +42,7 @@ Clique na foto para baixar com resolução alta.
 
 [![Foto 3](ims/IMG_0681_small.jpg "Foto 1")](ims/IMG_0681.jpg)  [![Foto 4](ims/IMG_0682_small.jpg "Foto 1")](ims/IMG_0682.jpg)
 
-[![Foto 5](ims/IMG_0683_small.jpeg "Foto 5")](ims/IMG_0683.jpeg) &emsp; &emsp; [![Foto 6](ims/IMG_0704_small.jpeg "Foto 6")](ims/IMG_0704.jpeg)
+[![Foto 5](ims/IMG_0683_small.jpeg "Foto 5")](ims/IMG_0683.jpeg) [![Foto 6](ims/IMG_0704_small.jpeg "Foto 6")](ims/IMG_0704.jpeg)
 
 [![Foto 7](ims/IMG_0705_small.jpeg "Foto 7")](ims/IMG_0705.jpeg) 
 
