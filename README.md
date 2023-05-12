@@ -35,9 +35,9 @@ O evento contará com apresentações de palestras,  e também de pôsteres,  po
 - Willian Versolati França (UFJF)
 
 
-[![Foto 1](ims/IMG_0679_small.jpg "Foto 1")](ims/IMG_0679.jpg) &emsp; &emsp; [![Foto 2](ims/IMG_0680_small.jpg "Foto 2")](ims/IMG_0680.jpg)
+[![Foto 1](ims/IMG_0679_small.jpg "Foto 1")](ims/IMG_0679.jpg) [![Foto 2](ims/IMG_0680_small.jpg "Foto 2")](ims/IMG_0680.jpg)
 
-[![Foto 3](ims/IMG_0681_small.jpg "Foto 1")](ims/IMG_0681.jpg) &emsp; &emsp; [![Foto 4](ims/IMG_0682_small.jpg "Foto 1")](ims/IMG_0682.jpg)
+[![Foto 3](ims/IMG_0681_small.jpg "Foto 1")](ims/IMG_0681.jpg)  [![Foto 4](ims/IMG_0682_small.jpg "Foto 1")](ims/IMG_0682.jpg)
 
 [![Foto 5](ims/IMG_0683_small.jpeg "Foto 5")](ims/IMG_0683.jpeg) &emsp; &emsp; [![Foto 6](ims/IMG_0704_small.jpeg "Foto 6")](ims/IMG_0704.jpeg)
 
