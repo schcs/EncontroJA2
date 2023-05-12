@@ -34,6 +34,9 @@ O evento contará com apresentações de palestras,  e também de pôsteres,  po
 - Willian Goulart Gomes Velasco (UFPR)
 - Willian Versolati França (UFJF)
 
+## Fotos do evento 
+
+Clique na foto para baixar com resolução alta.
 
 [![Foto 1](ims/IMG_0679_small.jpg "Foto 1")](ims/IMG_0679.jpg) [![Foto 2](ims/IMG_0680_small.jpg "Foto 2")](ims/IMG_0680.jpg)
 
