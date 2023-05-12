@@ -41,5 +41,6 @@ Clique na foto para baixar com resolução alta.
 [![Foto 1](ims/IMG_0679_small.jpg "Foto 1")](ims/IMG_0679.jpg) 
 [![Foto 2](ims/IMG_0705_small.jpeg "Foto 2")](ims/IMG_0705.jpeg) 
 
+## Patrocinadores
 
 [![Patricinado pelo INCT](INCT.jpg "INCT")](https://inctmat.impa.br/) &emsp; &emsp; [![Patricinado pelo PPGMat-UMFG](logo_Ppgmat.png "PPGMat-UFMG")](https://www.mat.ufmg.br/posgrad/) &emsp; &emsp; [![Patricinado pelo ApuBH](Logo-Apubh-Vermelha.jpg "ApuBH")](https://apubh.org.br/)
