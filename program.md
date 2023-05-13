@@ -2,7 +2,7 @@
 
 A seguinte planilha contém a programação do evento. 
 
-O evento será realizado na sala 3060 no ICEx/UFMG.
+O evento foi realizado na sala 3060 no ICEx/UFMG.
 
 | Horário        | 09 de maio<br/>terça-feira    | 10 de maio<br/>quarta-feira          | 11 de maio<br/>quinta-feira    | 
 | :---:  | :---: | :---: | :---: |

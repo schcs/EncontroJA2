@@ -1,10 +1,10 @@
-O encontro será realizado nos dias 09, 10 e 11 de maio de 2023 no [Instituto de Ciências Exatas](https://www.icex.ufmg.br) da [Universidade Federal de Minas Gerais](https://ufmg.br) (UFMG), Belo Horizonte, MG.
+O encontro foi realizado nos dias 09, 10 e 11 de maio de 2023 no [Instituto de Ciências Exatas](https://www.icex.ufmg.br) da [Universidade Federal de Minas Gerais](https://ufmg.br) (UFMG), Belo Horizonte, MG.
 
 Nos últimos anos, a área de pesquisa Álgebra tem se tornado uma das mais promissoras na Matemática. A pesquisa desenvolvida pelos jovens algebristas no Brasil tem se destacado no cenário internacional com a formação de parcerias e publicação de resultados importantes nas mais diferentes subáreas de atuação.
 
 Pensando na comunidade de jovens algebristas formados nos últimos anos nos diversos programas de pós-graduação de modo geral, entendemos que é importante a realização de eventos para que estes possam interagir e falar sobre o progresso de seus trabalhos. 
 
-O evento contará com apresentações de palestras,  e também de pôsteres,  por jovens pesquisadores da área de Álgebra das mais diversas instituições e regiões do Brasil.  O dia 11/05 será dedicado à celebração das mulheres na álgebra, antecipando as comemorações pelo dia das mulheres na matemática, o qual é celebrado mundialmente no dia 12/05.
+O evento contou com apresentações de palestras,  e também de pôsteres,  por jovens pesquisadores da área de Álgebra das mais diversas instituições e regiões do Brasil.  O dia 11/05 foi dedicado à celebração das mulheres na álgebra, antecipando as comemorações pelo dia das mulheres na matemática, o qual é celebrado mundialmente no dia 12/05.
 
 ## Palestrantes
 
