@@ -3,7 +3,7 @@
 #### <font style="color:navy; font-weight:bold;">Adriana Juzga León</font>
 Universidade Federal de Minas Gerais
 
-**An introduction to the study of Latin squares**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/SLIDES-ADRIANA-JUZGA.pdf">An introduction to the study of Latin squares</a>**
 
 A Latin square of order $n$ is an $n \times n$ array of cells containing entries from an alphabet of size $n$ in which no entry appears more than once in any row or column. Latin squares are widely used in various areas of science, such as quantum mechanics and projective geometry. In the literature it is common to divide the study of Latin squares into three areas: completion, enumeration, and orthogonality.  This talk will present an introduction to the study of Latin squares following the third category. It will also show how from the study of the Latin squares and the existence of some subsets of interest in them, various problems related to group theory, loop theory and graph coloring can be studied.
 
@@ -27,14 +27,14 @@ I. M. Wanless and B. S. Webb, The existence of Latin squares without orthogonal 
 #### <font style="color:navy; font-weight:bold;">Aislan Leal Fontes</font>
 Universidade Federal de Sergipe  
 
-**Espaço de Moduli de fibrados estáveis de posto 2 sobre $P^3$ com determinante ímpar**
+**<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Aislan.pdf">Espaço de Moduli de fibrados estáveis de posto 2 sobre $P^3$ com determinante ímpar</a>**
 
 A classificação de fibrados estáveis sobre $P^3$ é um problema clássico em geometria algébrica. Horrocks mostrou que todo fibrado sobre $P^3$ é dado como cohomologia de uma mônada a qual consiste de soma de fibrados em retas. Denote por $\mathcal{B}(e,m)$ o espaço de moduli de fibrados estáveis de posto $2$ sobre $P^3$ com classes de Chern $c_1=e$ e $c_2=m$. Nessa palestra vamos revisar resultados da literatura para $c_1=-1, c_2\leq4$ e na sequência, abordar resultados obtidos recentemente acerca de $\mathcal{B}(e,m)$ para os casos $c_1=-1$ e $c_2=6, 8$. Este trabalho foi realizado em conjunto com Marcos Jardim durante meu pós-doutorado.
 
 #### <font style="color:navy; font-weight:bold;">Claudemir Fideles Bezerra Jr.</font>
 Universidade Estadual de Campinas
 
-**A generalization of Cayley-Hamilton algebras and an introduction to their geometries**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Claudemir.pdf">A generalization of Cayley-Hamilton algebras and an introduction to their geometries</a>**
 
 There are a number of important theorems on the subject of matrix embeddings. Many of these results want to answer the following question:
 When does a given ring have an embedding into $n \times n$ matrices over some commutative ring? An obvious necessary condition is that the ring must satisfy the polynomial identities of $n \times n$ matrices, but such condition is not sufficient for $n>2$. Procesi proved that an algebra $R$ with trace can be embedded into $n \times n$ matrices over some commutative ring if and only if it satisfies the Cayley-Hamilton identity of degree $n$. Here we recall that the Cayley--Hamilton polynomial of a matrix $a$ can be written as a polynomial whose coefficients are polynomials in the traces of $a^k$, $k\ge 1$. Such algebras are called Cayely-Hamilton algebras, and interestingly enough the image of this embedding coincides with a ring of invariants, suggesting some geometrical applications. The final goal of this talk will be to discuss these applications in algebras far beyond Cayley-Hamilton algebras, and we will present recent results on this topic.
@@ -43,7 +43,7 @@ When does a given ring have an embedding into $n \times n$ matrices over some co
 #### <font style="color:navy; font-weight:bold;">Dafne Bessades</font>
 Universidade Estadual de Campinas
 
-**Grau mínimo de identidades standard da álgebra de matrizes munida da involução graduada simplética**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Dafne.pdf">Grau mínimo de identidades standard da álgebra de matrizes munida da involução graduada simplética</a>**
 
 Seja $F$ um corpo de característica zero e $M_{n}(F)$ a álgebra de matrizes de ordem $n$ sobre $F$. Em 1950, Amitsur e Levitzki estabeleceram que o polinômio standard de grau $2n$ é uma identidade polinomial de grau mínimo de $M_{n}(F)$. Posteriormente, Swan forneceu uma nova e interessante demonstração para o Teorema de Amitsur e Levitzki. Nessa demonstração Swan estabeleceu uma estreita relação entre substituições de matrizes elementares no polinômio standard e caminhos unicursais em grafos direcionados e, desse modo, traduziu o teorema de Amitsur e Levitzki para um teorema inerente a teoria de grafos. Em seguida, vários matemáticos basearam-se na abordagem de Swan com a finalidade de estudar as identidades polinomiais satisfeitas pela álgebra de matrizes em diversos outros contextos.
 Nesta palestra, veremos como podemos usar esse tipo de abordagem no estudo da minimalidade do grau de identidades standard para a álgebra de matrizes munida da involução graduada simplética.
@@ -53,7 +53,7 @@ Nesta palestra, veremos como podemos usar esse tipo de abordagem no estudo da mi
 #### <font style="color:navy; font-weight:bold;">Daniela Alves de Oliveira</font> 
 Universidade de São Paulo (São Carlos)
 
-**Polinômios sobre corpos binários com fatores esparços**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Daniela.pdf">Polinômios sobre corpos binários com fatores esparços</a>**
 
 Seja $\mathbb F_q$ um corpo finito com $q$ elementos, onde $q$ é uma potência de $2$. Nesse trabalho, nós estudamos os inteiros positivos $n$ para os quais os fatores irredutíveis do polinômio $x^n-1$ sobre $\mathbb F_q$ são todos binômios e trinômios. Em particular, descrevemos completamente os inteiros $n$ para $q=2,4$.
 
@@ -62,7 +62,7 @@ Trabalho em colaboração com Lucas Reis.
 #### <font style="color:navy; font-weight:bold;">Danilo Sanção da Silveira</font>
 Universidade Federal de Ouro Preto
 
-**Elementos de Torção Generalizada em Grupos**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Danilo.pdf">Elementos de Torção Generalizada em Grupos</a>**
 
 Dizemos que um elemento de um grupo é de torção generalizada se algum produto finito de seus conjugados é igual a identidade. Elementos de torção são elementos de torção generalizada, mas a recíproca não é verdadeira. Nesta palestra apresentaremos classes de grupos em que elementos de torção generalizada são de torção.
 
@@ -71,7 +71,7 @@ Trabalho em colaboração com Raimundo Bastos (UnB) e  Csaba Schneider (UFMG).
 #### <font style="color:navy; font-weight:bold;">Elkin Oveimar Quintero Vanegas</font>
 Universidade Federal do Amazonas
 
-**Irreducible modules over commutative power-associative algebras**
+*<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Elkin.pdf">Irreducible modules over commutative power-associative algebras</a>**
 
 We introduce the modules over the class of commutative power-associative algebras
 and we expose a connection, due to I. Shestakov, with Albert's problem (a problem of classification of finite-dimensional algebras) with irreducible modules. Furthermore, for any natural number $n$, we associate for the irreducible ${\mathfrak sl}_2(\mathbb{C})$-module of dimension $n$ an irreducible module of dimension $3n$ of the zero algebra of dimension four. Thus, we have examples of commutative power-associative algebras where its multiplicative enveloping algebra is either finite or infinite dimensional, so far as Jordan as well as Lie algebras.
@@ -79,14 +79,14 @@ and we expose a connection, due to I. Shestakov, with Albert's problem (a proble
 #### <font style="color:navy; font-weight:bold;">Felipe Yukihide Yasumura</font>
 Universidade de São Paulo
 
-**Homogeneous involutions on graded division algebras**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/slidesfelipe.pdf">Homogeneous involutions on graded division algebras</a>**
 
 We describe the so-called homogeneous involution on finite-dimensional graded-division algebra over an algebraically closed field. We also compute their graded polynomial identities with involution.
 
 #### <font style="color:navy; font-weight:bold;">Fernando Augusto Naves</font>
 Universidade Federal de Lavras
 
-**$A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/FernandoNaves.pdf">$A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$</a>**
 
 Sejam $F$ um corpo de característica zero e $E$ a álgebra de Grassmann unitária de dimensão infinita sobre $F$.
 O estudo das $A$-identidades polinomiais começou com Henke e Regev em [He]. Eles estudaram as $A$-identidades da álgebra de Grassmann $E$. Nos anos seguintes, diversos trabalhos que abordavam a noção de $A$-identidades foram produzidos. Em particular, Brandão, Gonçalves e Koshlukov [BGK] introduziram o conceito de $A$-identidade $\Z_2$-graduada. Eles descreveram as $A$-identidades $\Z_2$-graduadas para $M_2(F)$ e calcularam suas $A$-codimensões graduadas correspondentes. Inspirados nesse trabalho, em parceria com Talpo, descrevemos o conjunto de geradores de todas as $A$-identidades $\Z_2$-graduadas para $M_{1,1}(E)$ e calculamos as $A$-codimensões graduadas desta álgebra. Consideraremos a $\Z_2$-graduação na álgebra $R=M_{1,1}(E)$, $R=R_0 \oplus R_1$, onde $R_0$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal secundária e $R_1$ consiste nas matrizes em $M_{1,1}(E)$ com zeros na diagonal principal. Apresentaremos nesta palestra tais resultados obtidos e discutiremos sobre a generalização do conceito de $A$-identidade $G$-graduada, onde $G$ é um grupo finito ordenado.
@@ -103,7 +103,7 @@ F. A. Naves, H. L. Talpo, Graded A-identities for $M_{1,1}(E)$, Linear and Multi
 #### <font style="color:navy; font-weight:bold;">Grasiela Martini</font>
 Universidade Federal do Rio Grande do Sul
 
-**Comódulo Coálgebra Parcial de Álgebras de Hopf de Multiplicadores**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Grasi.pdf">Comódulo Coálgebra Parcial de Álgebras de Hopf de Multiplicadores</a>**
 
 Neste trabalho estendemos a noção de comódulo coálgebra parcial ao contexto de álgebras de Hopf de multiplicadores. Além disso, construímos um coproduto smash parcial generalizando as construções de L. Delvaux em [2] e E. Batista e J. Vercruysse em [1].
 
@@ -117,14 +117,14 @@ Neste trabalho estendemos a noção de comódulo coálgebra parcial ao contexto 
 #### <font style="color:navy; font-weight:bold;">José Alves Oliveira</font>
 Universidade Federal de Lavras
 
-**Dinâmica de funções polinomiais sobre corpos finitos**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/JoseAlves.pdf">Dinâmica de funções polinomiais sobre corpos finitos</a>**
 
 Seja $\mathbb{F}_q$ um corpo finito com $q$ elementos e seja $n$ um inteiro positivo. Nessa palestra, discutiremos sobre o grafo associado à aplicação $x\mapsto x^n h(x^{\frac{q-1}{m}})$ sobre $\mathbb{F}_q$, onde $h(x)\in\mathbb{F}_q[x]$. Nosso objetivo é apresentar o grafo dessa aplicação no caso em que certas condições de regularidade são satisfeitas. Em particular, nossos resultados caracterizam completamente a dinâmica de funções monomiais sobre corpos finitos.
 
 #### <font style="color:navy; font-weight:bold;">José Luis Vilca Rodríguez</font>
 Universidade de São Paulo
 
-**O problema de globalização de ações parciais de grupos em álgebras não associativas**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/JoseVilca.pdf">O problema de globalização de ações parciais de grupos em álgebras não associativas</a>**
 
 Grosso modo, uma ação de grupo parcial em uma álgebra é uma coleção de automorfismos parciais (bijeções entre ideais) que são compatíveis com a operação de grupo. O objetivo desta palestra é estudar em que condições uma ação parcial de um grupo em uma álgebra não associativa pode ser estendida a uma ação global (usual) de um grupo, ou seja, uma ação por automorfismo. Tal problema é conhecido como o problema da globalização, e a ação global é chamada de globalização.
 
@@ -135,7 +135,7 @@ Os resultados aqui apresentados fazem parte de um trabalho em colaboração com 
 #### <font style="color:navy; font-weight:bold;">Luis Augusto de Mendonça</font>
 Universidade Federal de Minas Gerais
 
-**Groups with the Magnus property**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/slidesLuis.pdf">Groups with the Magnus property</a>**
 
 A group $G$ is said to have the Magnus property (MP) if any two elements $g, h \in G$ with the same normal closure are already conjugate or inverse-conjugate: $g = h^x$ or $g^{-1} = h^x$ for some $x \in G$. A well known result by W. Magnus asserts that free groups have MP. I will discuss such property for some classes of relatively free nilpotent and solvable groups. Joint work with B. Klopsch and J.M. Petschick.
 
@@ -143,7 +143,7 @@ A group $G$ is said to have the Magnus property (MP) if any two elements $g, h \
 #### <font style="color:navy; font-weight:bold;">Manuela da Silva Souza</font>
 Universidade Federal da Bahia
 
-**Two-dimensional Jordan algebras: classification and polynomial identities theory**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/II-Encontro-de-jovens-algebristas_manuela.pdf">Two-dimensional Jordan algebras: classification and polynomial identities theory</a>**
 
 Jordan algebras were introduced by the physicist Pascual Jordan to formalize notions in quantum mechanics. These algebras have been studied since then and have connections with other areas of Mathematics such as Differential Geometry, Functional Analysis and Projective Geometry.  Precisely, a Jordan algebra $J$ is a commutative algebra whose product satisfies
 $$((x^2)y)x - (x^2)(yx) = 0,$$
@@ -159,7 +159,7 @@ Let $F$ be a field of characteristic different from $2$. Small-dimensional Jorda
 #### <font style="color:navy; font-weight:bold;">Maria Luiza Oliveira Santos</font>
 Universidade Federal Fluminense
 
-**Álgebras com involução graduada e crescimento quadrático das codimensões**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/ApresentacaoJA-Mallu.pdf">Álgebras com involução graduada e crescimento quadrático das codimensões</a>**
   
 Nos últimos anos, o estudo das variedades de álgebras com crescimento polinomial da sequência de codimensões tem sido amplamente desenvolvido, destacando-se, em particular, a busca por caracterizações e classificações de tais variedades de acordo com o comportamento assintótico da sequência de codimensões. Motivados por esses resultados e tendo em vista as superálgebras munidas de involução graduada, as chamadas $\ast$-superálgebras, em um trabalho em colaboração com Ioppolo, dos Santos e Vieira, classificamos todas as variedades de $\ast$-superálgebras minimais de crescimento quadrático, exibindo, a menos de equivalência, uma lista completa de 39 álgebras de dimensão finita geradoras de tais variedades minimais. Recentemente, em conjunto com Bessades e Costa, classificamos as variedades de crescimento quadrático geradas por $\ast$-superálgebras unitárias. Mais especificamente, mostramos que uma $\ast$-superálgebras unitária tem crescimento quadrático da sequência de codimensões se, e somente se, é equivalente a uma soma direta finita de $\ast$-superálgebras unitárias que geram variedades minimais de crescimento no máximo quadrático. Nesta palestra, comentaremos sobre os resultados obtidos nos trabalhos mencionados.
 
@@ -172,28 +172,28 @@ A. Ioppolo, R. B. dos Santos, M. L. O. Santos and A. C. Vieira, Superalgebras wi
 #### <font style="color:navy; font-weight:bold;">Martino Garonzi</font>
 Universidade de Brasília
 
-**Finite permutation groups: generation and coverings**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Martino.pdf">Finite permutation groups: generation and coverings</a>**
 
 In this talk, I will summarize some recent results in finite group theory concerning permutation groups, generation and coverings of groups. Usually generation and covering problems can be formulated in terms of maximal subgroups, and this process takes, via a standard argument, to the study of groups of permutations of a set $X$ of size $n$ which are primitive, i.e. they do not preserve any nontrivial partition of $X$. Such groups are classified by the O'Nan-Scott theorem and they include the simple and almost-simple groups. In general, the reduction problem and the solution in the primitive case are hard and it is meaningful to collect as much information as possible on both. The result I will present in the talk are joint with many co-authors.
 
 #### <font style="color:navy; font-weight:bold;">Mateus Eduardo Salomão</font>
 Universidade Tecnológica Federal do Paraná
 
-**Identidades polinomiais para a álgebra de Jordam das matrizes triangulares superiores $2\times 2$**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Mateus.pdf">Identidades polinomiais para a álgebra de Jordam das matrizes triangulares superiores $2\times 2$</a>**
 
 Nesta palestra, será apresentada uma descrição do T-ideal das identidades polinomiais para a álgebra de Jordan das matrizes triangulares superiores $2 \times 2$ sobre qualquer corpo (finito ou infinito) de característica diferente de 2 e serão exibidas bases para as correspondentes álgebras relativamente livres. Ademais, será discutido o Problema de Specht para este T-ideal no caso em que o corpo é infinito. 
 
 #### <font style="color:navy; font-weight:bold;">Monique Muller Lopes Rocha</font>
 Universidade Federal de São João del-Rei
 
-**Fatorações exatas de categorias de fusão**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Monique.pdf">Fatorações exatas de categorias de fusão</a>**
 
 O conceito de fatoração exata de categorias de fusão foi introduzido por Gelaki em 2017 e é uma generalização categórica para o conceito de fatoração exata de grupos finitos. Vamos ver que a fatoração exata de categorias de fusão induz uma fatoração exata nos grupos de graduação universal correspondentes, entre outras propriedades. Este é um trabalho em andamento em conjunto com Julia Plavnik e Héctor Martín Peña Pollastri. 
 
 #### <font style="color:navy; font-weight:bold;">Oscar Armando Hernández Morales</font>
 Universidade de São Paulo
 
-**New Generalized Imaginary Verma modules**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Oscar.pdf">New Generalized Imaginary Verma modules</a>**
 
 In this talk will be to discuss a technique of constructing irreducible weight modules for any affine Kac-Moody algebra using the parabolic induction, in the case when the Levi factor of a parabolic subalgebra is infinite-dimensional and the central charge is nonzero. Our approach unifies and generalizes all previously known results with imposed restrictions on inducing modules.
 
@@ -213,7 +213,7 @@ In this talk will be to discuss a technique of constructing irreducible weight m
 #### <font style="color:navy; font-weight:bold;">Raimundo Bastos</font>
 Universidade de Brasília
 
-**Solubilidade e os subgrupos de Hall**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Aislan.pdf">Solubilidade e os subgrupos de Hall</a>**
 
 O objetivo desta palestra será investigar propriedades de grupos que admitem um subgrupo solúvel de índice potência de primo. Mais ainda, apresentar critérios de solubilidade em termos da existência de subgrupos de Hall. Trabalho em colaboração com Csaba Schneider (UFMG).
 
@@ -221,7 +221,7 @@ O objetivo desta palestra será investigar propriedades de grupos que admitem um
 #### <font style="color:navy; font-weight:bold;">Ricardo Luiz Souza</font> 
 Colégio Batista Mineiro
 
-**Representações linearmente topologizadas**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/beamer-WJA.pdf">Representações linearmente topologizadas</a>**
 
 Todo curso introdutório de Teoria de Representações de Álgebras começa com álgebras de dimensão finita e representações de dimensão finita sobre estas. Isso tem um motivo: A teoria para esses casos é bem entendida e possui bastantes resultados poderosos. Contudo, muitos dos resultados mais importantes e centrais da teoria passam a não valer (em geral!) quando retiramos essas restrições.
 
@@ -230,21 +230,21 @@ Nesta palestra vamos apresentar um jeito de dar uma topologia natural para espa�
 #### <font style="color:navy; font-weight:bold;">Sarah Faria Monteiro Mazzini Costa</font>
 Universidade Federal de Uberlândia  
 
-**Interseções Completas e Pontos de Weierstrass**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Palestra_jovens_algebristas-Sarah.pdf">Interseções Completas e Pontos de Weierstrass</a>**
 
 Existem alguns avanços relacionados à racionalidade do espaço de moduli de curvas algébricas pontuadas de gênero g e semigrupo de Weierstrass S, onde os semigrupos estudados têm gênero menor ou igual a 6. Utilizando a compactificação deste espaço de moduli descrita por Contiero e Stohr, temos que este é dado pelo anulamento de um sistema de equações cujas variáveis são coeficientes das syzygies isobáricas resultantes do desdobramento dos geradores da curva monomial que realiza o semigrupo. Projetando a curva monomial no espaço afim de dimensão n, em que n é a dimensão de mergulho do semigrupo, e supondo que a curva é interseção completa, é possível mostrar que a compactificação do espaço de moduli é isomorfa à projetivização da parte negativamente graduada do primeiro módulo de cohomologia do complexo cotangente associado à curva.
 
 #### <font style="color:navy; font-weight:bold;">Victor Pretti</font>
 Universidade de São Paulo
 
-**Finding quiver regions on the space of Bridgeland stability conditions**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Presentation_Exceptional_Regions___Jovens_Algebristas_23___20min-1.pdf">Finding quiver regions on the space of Bridgeland stability conditions</a>**
 
 The moduli of instantons bundles over a Fano threefold have been under investigation by many authors during the last 50 years. Their relation with exceptional collections and monads has already been proven to be useful in many situations, such as the ADHM equations and D.Faenzi's work, for example. Now, to use this relation in the context of Bridgeland stability, we need to find a region where Bridgeland and quiver stability coincide, in that way also obtaining general information about these moduli spaces. We will present a systematic way of describing these quiver regions whenever a Bridgeland stability condition exists.
 
 #### <font style="color:navy; font-weight:bold;">Willian Goulart Gomes Velasco</font>
 Universidade Federal do Paraná
 
-**A álgebra parcial de um grupo como a álgebra de convolução de uma categoria inversa**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/WillianVelasco.pdf">A álgebra parcial de um grupo como a álgebra de convolução de uma categoria inversa</a>**
 
 Ações parciais de grupo formam um campo teórico (em teoria de
 representações, álgebra de operadores e afins) que engloba as ações de grupo usuais. Assim como estas, ações parciais induzem a definição de uma álgebra de grupo, aqui chamada de álgebra parcial de grupo. Nesta palestra discorreremos sobre as estruturas algébricas envolvidas na definição de tal álgebra. parcial. Isto nos motivar a (re)interpretar tais fatos do ponto de vista categórico. Em particular, por meio de ações fibradas de categorias inversas em conjuntos. 
@@ -254,6 +254,6 @@ Este trabalho foi realizado em colaboração com Marcelo M. Alves (UFPR); aprese
 #### <font style="color:navy; font-weight:bold;">Willian Versolati França</font>
 Universidade Federal de Juiz de Fora  
 
-**Functional Identities on subsets not closed under addition**
+***<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/WillianFranca.pdf">Functional Identities on subsets not closed under addition</a>**
 
 In this talk we aim to present some of the recent results in this theory. At the end we intend to suggest new problems in this line of investigation.
