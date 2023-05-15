@@ -1,5 +1,7 @@
 ## Resumos das Palestras
 
+<a href="https://www.mat.ufmg.br/ii-encontro-de-jovens-algebristas-slides-das-apresentacoes/"Clicando neste link</a> pode-se acessar os slides de todas as palestras na mesma tela. Clicando no título de cada palestra pode baixar os slides individualmente. 
+
 #### <font style="color:navy; font-weight:bold;">Adriana Juzga León</font>
 Universidade Federal de Minas Gerais
 
@@ -71,7 +73,7 @@ Trabalho em colaboração com Raimundo Bastos (UnB) e  Csaba Schneider (UFMG).
 #### <font style="color:navy; font-weight:bold;">Elkin Oveimar Quintero Vanegas</font>
 Universidade Federal do Amazonas
 
-*<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Elkin.pdf">Irreducible modules over commutative power-associative algebras</a>**
+**<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Elkin.pdf">Irreducible modules over commutative power-associative algebras</a>**
 
 We introduce the modules over the class of commutative power-associative algebras
 and we expose a connection, due to I. Shestakov, with Albert's problem (a problem of classification of finite-dimensional algebras) with irreducible modules. Furthermore, for any natural number $n$, we associate for the irreducible ${\mathfrak sl}_2(\mathbb{C})$-module of dimension $n$ an irreducible module of dimension $3n$ of the zero algebra of dimension four. Thus, we have examples of commutative power-associative algebras where its multiplicative enveloping algebra is either finite or infinite dimensional, so far as Jordan as well as Lie algebras.
