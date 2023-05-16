@@ -215,7 +215,7 @@ In this talk will be to discuss a technique of constructing irreducible weight m
 #### <font style="color:navy; font-weight:bold;">Raimundo Bastos</font>
 Universidade de Brasília
 
-**Solubilidade e os subgrupos de Hall**
+**<a href="https://www.mat.ufmg.br/wp-content/uploads/2023/05/Solubilidade_e_os_subgrupos_de_Hall___UFMG___maio_2023___JOVENS (1).pdf">Solubilidade e os subgrupos de Hall</a>**
 
 O objetivo desta palestra será investigar propriedades de grupos que admitem um subgrupo solúvel de índice potência de primo. Mais ainda, apresentar critérios de solubilidade em termos da existência de subgrupos de Hall. Trabalho em colaboração com Csaba Schneider (UFMG).
 
