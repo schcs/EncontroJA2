@@ -1,7 +1,5 @@
 ## Resumos das Palestras
 
-mudança
-
 <a href="https://www.mat.ufmg.br/ii-encontro-de-jovens-algebristas-slides-das-apresentacoes/">Clicando neste link</a>, pode-se acessar os slides de todas as palestras na mesma tela. Clicando no título de cada palestra, pode baixar os slides individualmente. 
 
 #### <font style="color:navy; font-weight:bold;">Adriana Juzga León</font>
